@@ -1,10 +1,10 @@
 # MyPlaces
 
-`ANÁLISE E DESENVOLVIMENTO DE SISTEMAS`
+`Análise e Desenvolvimento de Sistemas - PUC Minas`
 
-`DESENVOLVIMENTO DE APLICAÇÃO WEB FRONT-END`
+`Desenvolvimento de aplicação web front-end`
 
-`EIXO 1`
+`1º semestre/2024`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto desenvolvido.
 
