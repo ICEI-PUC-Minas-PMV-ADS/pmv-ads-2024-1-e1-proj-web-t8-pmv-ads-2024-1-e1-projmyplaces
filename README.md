@@ -1,4 +1,4 @@
-MyPlaces
+##MyPlaces
 
 `Análise e Desenvolvimento de Sistemas - PUC Minas`
 
@@ -13,10 +13,10 @@ A aplicação permitirá que o usuário pesquise por lugares relacionados a laze
 
 * Lucineia Martins Caldeira dos Santos
 * Lucas Vinícius Almeida Campos
-  
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Bárbara Souto Prado
+* Kézia Ângela do Nascimento Souza
+* Solange Márcia de Paula
+* Thassiana Bernardes Santiago
 
 ## Orientador
 
