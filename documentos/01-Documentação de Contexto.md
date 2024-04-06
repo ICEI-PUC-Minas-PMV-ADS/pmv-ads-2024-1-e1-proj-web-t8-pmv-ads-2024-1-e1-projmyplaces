@@ -19,17 +19,53 @@ desenvolveremos um projeto afim de solucionar esse desafio, trazendo maior quali
 vida e facilidade para adaptação, quando se tratar de uma mudança de localização dos
 indivíduos.
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
-
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+De acordo com a realidade de diversos viajantes e até mesmo indivíduos quando se
+mudam para um determinado estado ou diferente região no qual não estão habituados com a
+localidade, existe uma demanda desde o início desta mudança de localização, como por
+exemplo no trajeto até o destino, onde o indivíduo está em um trajeto desconhecido, ou pode
+surgir a necessidade de alimentação, saúde, postos de combustível, como também o decorrer
+dos dias em seu destino final, a demanda para ter acesso a um determinado local, ou conhecer
+5
+a lazer um ambiente diferente para confraternização com novos colegas, uma emergência de
+saúde, entres outras situações rotineiras do dia a dia de cada indivíduo.
+Uma pesquisa realizada no ano de 2015 por Marieta Cazarré – Repórter da Agência
+Brasil menciona sofre os desafios dos imigrantes sobre a falta de informação quando se
+mudam para uma nova localidade, devido a fatores políticos, sociais, econômicos etc.
+Com isso um grande desafio neste período é encontrar onde estão estes pontos de
+comodidades para realizar com êxito essa demanda pessoal, porém no contexto que aquele
+individuo está inserido, que é de um novo local, existe também a diferente cultura social
+daquele determinado estado ou região onde ele se encontra, por exemplo SP que tem a
+reputação de ser “A cidade que não dorme” onde culturalmente, os moradores paulistas vivem
+a agitação do dia a dia, sem se atentar a uma abordagem de um desconhecido em busca de
+informação, de como chegar a um determinado local da cidade, ou necessidades básicas de
+mobilidade entre eles, bancos, estacionamentos, restaurantes, padarias, farmácias e hospitais
+entre outros locais importantes para o dia a dia.
 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-
+Desenvolver uma plataforma digital abrangente é o objetivo primordial, que não
+apenas forneça informações precisas e atualizadas sobre pontos de acesso, como restaurantes,
+postos de combustível, hospitais, farmácias, entre outros, facilitando assim a localização de
+serviços essenciais em uma nova localidade, mas também integre um sistema de avaliação e
+comentários dos usuários sobre os estabelecimentos listados. Essa integração, além de
+possibilitar recomendações personalizadas, contribuirá significativamente para uma
+experiência do usuário mais enriquecedora e confiável;
+• Criar um sistema de geolocalização integrado à plataforma, para ajudar os usuários a
+se orientarem e a encontrarem os locais de forma prática e eficiente, mesmo em um ambiente
+desconhecido;
+• Estabelecer parcerias estratégicas com estabelecimentos locais não apenas para
+garantir a confiabilidade das informações disponibilizadas na plataforma, assegurando que os
+dados estejam sempre atualizados e condizentes com a realidade, mas também para promover
+a integração da comunidade local com os usuários da plataforma. Essa cooperação mútua não
+só enriquecerá a troca de informações, mas também contribuirá para uma experiência mais
+abrangente e colaborativa para todos os envolvidos;
+• Implementar funcionalidades de avaliação e comentários dos usuários sobre os
+estabelecimentos listados, de modo a oferecer recomendações personalizadas e contribuir para
+uma melhor experiência do usuário;
+• Incentivar a troca de informações e dicas entre os usuários da plataforma, criando uma
+comunidade virtual que compartilhe experiências e conhecimentos sobre os destinos visitados
+ou habitados, promovendo a integração e a ajuda mútua
 ## Justificativa
 
 [Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
