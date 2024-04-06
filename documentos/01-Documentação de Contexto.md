@@ -76,12 +76,19 @@ encontrar pontos de comodidades em um lugar desconhecido.
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
-
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
-
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-
+Estabeleceu-se como público-alvo desta solução, homens e mulheres (20 a 50 anos),
+que estão em processo migratório para outro Estado/região podendo ser de forma temporal ou
+permanente, estudantes, turistas, profissionais que precisam se viajar frequentemente por
+causa do seu emprego e por isso precisam desse auxílio para amenizar as dificuldades que
+esses processos provocam.
+Para conhecer melhor o público-alvo, foram realizadas entrevistas com cinco pessoas
+de diferentes gêneros, idade e propósitos a fim de identificar as dificuldades em comum entre
+elas. São elas:
+1. Dificuldade para encontrar informações básicas referentes a moradias disponíveis
+próximo a região onde a pessoa se encontra e faixa de preço;
+2. Em viagens a passeio, não ter variedades em opções de restaurantes, farmácias,
+supermercados e outros que atendam suas preferências e necessidades;
+3. Achar postos de gasolina, hospedagens, banheiros e afins na estrada, juntamente com
+as informações adicionais.
+Portanto, nota-se a necessidade desses usuários em um aplicativo que possa facilitar suas
+necessidades de acordo com as situações.
