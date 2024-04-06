@@ -62,11 +62,17 @@ comunidade virtual que compartilhe experiências e conhecimentos sobre os destin
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+Segundo pesquisa da CNN Brasil, 48% dos entrevistados pretendem conhecer o
+Nordeste em 2024, seguido por Sudeste (38%), Sul (16%), Norte (7%) e Centro-Oeste (6%), o
+estudo também revela que 43% dos brasileiros pretendem viajar este ano.
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+Outra pesquisa realizada no ano de 2015 por Marieta Cazarré – Repórter da Agência
+Brasil menciona sofre os desafios dos imigrantes sobre a falta de informação quando se
+mudam para uma nova localidade, devido a fatores políticos, sociais, econômicos etc.
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Pensando nisso a aplicação será desenvolvida para sanar as dificuldades dessas pessoas em  
+encontrar pontos de comodidades em um lugar desconhecido. 
+
 
 ## Público-Alvo
 
