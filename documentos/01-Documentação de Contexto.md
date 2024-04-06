@@ -1,7 +1,23 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
-
+Desde o início das primeiras civilizações, já existiam a cultura de migração, de uma
+localização para outra. Um grande marco histórico social que temos foram os nômades, que
+surgiram na Pré-História, especificamente, nos períodos Paleolítico e parte do Neolítico,
+como uma forma de sobrevivência dos povos contudo, conforme o nosso avanço tecnológico
+de milênios, como novos meios de transporte e comunicação, surgiram novos processos
+migratórios, como por exemplos estudantes se mudando em prol de formação acadêmica,
+pessoas se mudando a trabalho ou por outras necessidades sociais, outras pessoas conhecendo
+uma nova localização, porém com o objetivo de lazer e de conhecer novos pontos turísticos.
+Segundo uma pesquisa feita pela Exame feita pela Redação Exame em agosto de
+2023, 1 a cada 4 brasileiros pretende viajar a turismo nos próximos seis meses, levando em
+consideração este dado, o processo de conhecer novas localidades, tende a seguir nos
+próximos anos.
+Visando tal movimentação, identificamos uma dificuldade enfrentada a respeito de sua
+ambientação a novas localidades pelos indivíduos que se mudam, viajam a lazer ou trabalho,
+entre outros públicos, levando em consideração esse desafio em identificar pontos de acesso,
+desenvolveremos um projeto afim de solucionar esse desafio, trazendo maior qualidade de
+vida e facilidade para adaptação, quando se tratar de uma mudança de localização dos
+indivíduos.
 ## Problema
 [Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
