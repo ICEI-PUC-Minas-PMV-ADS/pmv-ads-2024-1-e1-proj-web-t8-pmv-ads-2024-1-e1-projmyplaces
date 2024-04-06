@@ -44,25 +44,29 @@ entre outros locais importantes para o dia a dia.
 
 ## Objetivos
 
-Desenvolver uma plataforma digital abrangente é o objetivo primordial, que não
+•Desenvolver uma plataforma digital abrangente é o objetivo primordial, que não
 apenas forneça informações precisas e atualizadas sobre pontos de acesso, como restaurantes,
 postos de combustível, hospitais, farmácias, entre outros, facilitando assim a localização de
 serviços essenciais em uma nova localidade, mas também integre um sistema de avaliação e
 comentários dos usuários sobre os estabelecimentos listados. Essa integração, além de
 possibilitar recomendações personalizadas, contribuirá significativamente para uma
 experiência do usuário mais enriquecedora e confiável;
+
 • Criar um sistema de geolocalização integrado à plataforma, para ajudar os usuários a
 se orientarem e a encontrarem os locais de forma prática e eficiente, mesmo em um ambiente
 desconhecido;
+
 • Estabelecer parcerias estratégicas com estabelecimentos locais não apenas para
 garantir a confiabilidade das informações disponibilizadas na plataforma, assegurando que os
 dados estejam sempre atualizados e condizentes com a realidade, mas também para promover
 a integração da comunidade local com os usuários da plataforma. Essa cooperação mútua não
 só enriquecerá a troca de informações, mas também contribuirá para uma experiência mais
 abrangente e colaborativa para todos os envolvidos;
+
 • Implementar funcionalidades de avaliação e comentários dos usuários sobre os
 estabelecimentos listados, de modo a oferecer recomendações personalizadas e contribuir para
 uma melhor experiência do usuário;
+
 • Incentivar a troca de informações e dicas entre os usuários da plataforma, criando uma
 comunidade virtual que compartilhe experiências e conhecimentos sobre os destinos visitados
 ou habitados, promovendo a integração e a ajuda mútua
