@@ -70,10 +70,7 @@ preços dos restaurantes.</td>
 
 |EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|---------------------------|----------------------------------|
-| Maria              | Como turista preciso encontrar
-durante meu trajeto, lojas de
-conveniência, para algumas
-comprinhas básicas.                          | ...                              |
+| Maria              |                           | ...                              |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
