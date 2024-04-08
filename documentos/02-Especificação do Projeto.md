@@ -24,6 +24,28 @@ gasolina entre outros.</td>
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 1: Viajante </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">João, 37 anos, é vendedor em uma empresa que vende
+produtos de limpeza para supermercados, por isso, ele está
+sempre na estrada, pois, precisa oferecer seus produtos para
+os possíveis clientes, como faz viagens longas, sempre
+precisa de um local para dormir. </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Encontrar serviços básicos confiáveis, como alimentação,
+banheiros, hospedagens, farmácias, acesso à internet (Wi-Fi), postos de
+gasolina entre outros.</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Histórias de Usuários
 
