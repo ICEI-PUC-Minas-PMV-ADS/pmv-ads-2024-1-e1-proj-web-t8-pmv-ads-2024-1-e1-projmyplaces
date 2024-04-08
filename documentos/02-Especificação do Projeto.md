@@ -43,6 +43,27 @@ das linhas do metrô, supermercados e locais de lazer.</td>
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr align=center>
+<th colspan="2">Perfil 3: Turista </th>
+</tr>
+<tr>
+<td width="150px"><b>Descrição</b></td>
+<td width="600px">Ana Clara, 30 anos, gosta muito de viajar em suas férias e
+procura sempre economizar com a alimentação em suas
+viagens, para que a alimentação não pese em seu orçamento,
+procura restaurantes que oferecem a alimentação mais em
+conta. </td>
+</tr>
+<tr>
+<td><b>Necessidades</b></td>
+<td>Ter com antecedência informações como média de
+preços dos restaurantes.</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Histórias de Usuários
 
