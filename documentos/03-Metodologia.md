@@ -13,9 +13,9 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 
 Nossa equipe é formada por:
 - Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
-- Product Owner: Nome de um membro da equipe, representante dos interesses de todos os envolvidos (Stakeholders), define as funcionalidades do produto e prioriza os itens de Product Backlog.
+- Product Owner: Lucineia Martins.
 - Equipe de Desenvolvimento: Lucineia Martins, Lucas Vinícius, Solange Márcia, Kézia Ângela, Thassiana Bernardes e Bárbara Souto.
-- Equipe de Design: Nomes dos membros da equipe que trabalharão com design.
+- Equipe de Design: Lucas Vinícius.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
