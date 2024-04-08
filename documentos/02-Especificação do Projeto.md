@@ -27,21 +27,18 @@ gasolina entre outros.</td>
 <table>
 <tbody>
 <tr align=center>
-<th colspan="2">Perfil 1: Viajante </th>
+<th colspan="2">Perfil 2: Migrante </th>
 </tr>
 <tr>
 <td width="150px"><b>Descrição</b></td>
-<td width="600px">João, 37 anos, é vendedor em uma empresa que vende
-produtos de limpeza para supermercados, por isso, ele está
-sempre na estrada, pois, precisa oferecer seus produtos para
-os possíveis clientes, como faz viagens longas, sempre
-precisa de um local para dormir. </td>
+<td width="600px">Ana, 25 anos, conseguiu um emprego em uma Multinacional
+em São Paulo, por isso, teve que mudar de estado e ainda
+está se adaptando à nova cidade e precisa saber onde pegar o metrô, para se locomover pela cidade. </td>
 </tr>
 <tr>
 <td><b>Necessidades</b></td>
-<td>Encontrar serviços básicos confiáveis, como alimentação,
-banheiros, hospedagens, farmácias, acesso à internet (Wi-Fi), postos de
-gasolina entre outros.</td>
+<td>Encontrar serviços básicos de uso diário, como a localização
+das linhas do metrô, supermercados e locais de lazer.</td>
 </tr>
 </tbody>
 </table>
