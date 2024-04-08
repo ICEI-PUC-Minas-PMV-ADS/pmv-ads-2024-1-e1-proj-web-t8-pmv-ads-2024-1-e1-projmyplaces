@@ -16,10 +16,10 @@ os possíveis clientes, como faz viagens longas, sempre
 precisa de um local para dormir. </td>
 </tr>
 <tr>
-<td><b>Encontrar serviços básicos confiáveis, como alimentação,
+<td><b>Necessidades</b></td>
+<td>Encontrar serviços básicos confiáveis, como alimentação,
 banheiros, hospedagens, farmácias, acesso à internet (Wi-Fi), postos de
-gasolina entre outros.</b></td>
-<td>...</td>
+gasolina entre outros.</td>
 </tr>
 </tbody>
 </table>
