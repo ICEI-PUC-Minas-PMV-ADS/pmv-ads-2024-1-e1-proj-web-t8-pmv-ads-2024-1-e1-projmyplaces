@@ -16,7 +16,9 @@ os possíveis clientes, como faz viagens longas, sempre
 precisa de um local para dormir. </td>
 </tr>
 <tr>
-<td><b>Necessidades</b></td>
+<td><b>Encontrar serviços básicos confiáveis, como alimentação,
+banheiros, hospedagens, farmácias, acesso à internet (Wi-Fi), postos de
+gasolina entre outros.</b></td>
 <td>...</td>
 </tr>
 </tbody>
