@@ -12,10 +12,10 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 ### Divisão de Papéis
 
 Nossa equipe é formada por:
-- Scrum Master: Nome de um membro da equipe, principal responsável pela gestão do projeto.
+- Scrum Master: Solange Márcia.
 - Product Owner: Lucineia Martins.
 - Equipe de Desenvolvimento: Lucineia Martins, Lucas Vinícius, Solange Márcia, Kézia Ângela, Thassiana Bernardes e Bárbara Souto.
-- Equipe de Design: Lucas Vinícius.
+- Equipe de Design: Lucas Vinícius, Kézia.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu 
