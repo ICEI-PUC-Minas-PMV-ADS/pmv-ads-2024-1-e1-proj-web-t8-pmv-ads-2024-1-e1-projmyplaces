@@ -16,7 +16,7 @@ Nossa equipe é formada por:
 
 ### Processo
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas: 
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas: 
 
 <ul>
   <li>Backlog do Produto: Contém todas as atividades a serem feitas, novas atividades que surgirem no projeto serão acrescentadas.</li>
