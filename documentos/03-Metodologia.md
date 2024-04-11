@@ -113,7 +113,7 @@ Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a 
 |-------------------------------------|------------------------------------|----------------------------------------|
 | Repositório de código fonte         | GitHub                             | http://....                            |
 | Documentos do projeto               | GitHub                             | http://....                            |
-| Projeto de Interface                | Figma                              | http://....                            |
+| Projeto de Interface                | Figma                              |[ http://....                            ](https://www.figma.com/proto/ejFv1BhSGfapMhtXNPPIap/Untitled?type=design&t=dSEg5uWy2gNSiAJZ-1&scaling=scale-down&page-id=0%3A1&node-id=6-431&starting-point-node-id=6%3A431&show-proto-sidebar=1)|
 | Gerenciamento do Projeto            | GitHub Projects                    | http://....                            |
 | Hospedagem                          | GitHub Pages                       | http://....                            |
 
