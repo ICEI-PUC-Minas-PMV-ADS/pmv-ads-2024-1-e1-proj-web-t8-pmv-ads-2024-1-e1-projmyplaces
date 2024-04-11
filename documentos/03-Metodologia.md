@@ -19,13 +19,13 @@ Nossa equipe é formada por:
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas: 
 
 <ul>
-  <li>Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.</li>
-  <li>To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.</li>
-  <li>In progress: lista das tarefas iniciadas.</li>
-  <li>Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.</li>
+  <li>Backlog do Produto: Contém todas as atividades a serem feitas, novas atividades que surgirem no projeto serão acrescentadas.</li>
+  <li>A fazer: esta lista representa o backlog da Sprint.</li>
+  <li>Em andamento: São as atividades que estão sendo feitas.</li>
+  <li>Concluído: Nessa lista estão todas as atividades que foram finalizadas.</li>
  </ul>
 
-O quadro kanban do grupo no GitHub está disponível no link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/2 e é apresentado, no estado atual, na figura abaixo:
+O quadro kanban está disponível no link https://trello.com/b/eOphSDUR/kanban-quadro-myplaces onde está sendo alimentado conforme o avanço do projeto.
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/blob/main/documentos/img/QuadroKanbanMyPlaces.png?raw=true">
