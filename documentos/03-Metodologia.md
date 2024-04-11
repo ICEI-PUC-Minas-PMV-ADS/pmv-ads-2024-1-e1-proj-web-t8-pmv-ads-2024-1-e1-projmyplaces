@@ -62,7 +62,7 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-<p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e MarvelApp, apresentadas com seu propósito na tabela que se segue.<p/>
+<p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub, Figma e Trello, apresentadas com seu propósito na tabela que se segue.<p/>
 
 | AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
