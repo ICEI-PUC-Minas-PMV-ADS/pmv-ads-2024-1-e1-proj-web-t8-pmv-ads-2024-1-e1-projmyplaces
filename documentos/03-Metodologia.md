@@ -68,7 +68,7 @@ necessidades da nossa solução.
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Repositório de código fonte | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/codigo-fonte/README.md  |
 |Documentos do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/  |
-|Projeto de interface e wireframes | MarvelApp | https://marvelapp.com/prototype/i39bj37/screen/86143037 |
+|Projeto de interface e wireframes | Figma | [https://marvelapp.com/prototype/i39bj37/screen/86143037](https://www.figma.com/proto/ejFv1BhSGfapMhtXNPPIap/Untitled?type=design&t=dSEg5uWy2gNSiAJZ-1&scaling=scale-down&page-id=0%3A1&node-id=6-431&starting-point-node-id=6%3A431&show-proto-sidebar=1) |
 |Gerenciamento do projeto  | GitHub | [https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/projects/2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/2) |
 
 ### Estratégia de Organização de Codificação 
