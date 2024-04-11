@@ -54,7 +54,7 @@ O quadro kanban está disponível no link https://trello.com/b/eOphSDUR/kanban-q
 As ferramentas empregadas no projeto são:
 
 - Ferramentas de comunicação
-- Ferramentas de desenho de tela (Figma)
+- Ferramentas de desenho de tela (wireframing)
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
