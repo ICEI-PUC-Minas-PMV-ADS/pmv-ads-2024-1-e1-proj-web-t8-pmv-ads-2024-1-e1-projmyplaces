@@ -72,6 +72,7 @@ preços dos restaurantes.</td>
 |--------------------|-------------------------------------|----------------------------------|
 | Maria              | Como turista preciso encontrar durante meu trajeto, lojas de conveniência, para algumas comprinhas básicas.                            | Poder fazer algumascompras durante a viagem.                              |
 | Ana                | Me mudei de Minas para São Paulo e preciso saber onde pegar o metrô.     | Para se locomover na cidade, pois, além de ser mais econômico é mais rápido.
+| ana| encontrar hoteis | teste 3|
 
 | João               |Como estou viajando a trabalho
 | ...                | ...                       | ...
