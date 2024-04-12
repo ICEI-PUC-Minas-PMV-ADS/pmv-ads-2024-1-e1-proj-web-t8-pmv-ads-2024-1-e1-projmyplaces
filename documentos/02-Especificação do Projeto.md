@@ -94,7 +94,7 @@ preços dos restaurantes.</td>
 |ID | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 | Na aplicação deve conter um campo de pesquisa.| Alta   | 
-| RF-02   |A aplicação deverá ter um filtro para mostrar média de preço por estabelecimento.|Média|
+| RF-02   |A aplicação deverá ter um filtro para mostrar média de preço por estabelecimento.|MÉDIA|
 |RF-03 |A aplicação deve fornecer horário de funcionamento dos estabelecimentos.|Alta|
 |RF-04 |A aplicação deve permitir fazer avaliação dos estabelecimentos. |Média|
 |RF-05 |A aplicação deve permitir ao usuário criar uma conta. |Alta |
@@ -107,7 +107,7 @@ preços dos restaurantes.</td>
 |RF-12 |A aplicação deve conter um campo de busca por avaliações.|Media|
 |RF-13 |A aplicação deve permitir alterar o idioma de português para inglês e vice-versa. |Alta |
 
-
+**Prioridade: Alta / Média / Baixa.
 
 
 
@@ -126,6 +126,6 @@ preços dos restaurantes.</td>
 |RNF-07 |A aplicação deve ser escalável, aumentar ou diminuir sua capacidade conforme a necessidade. |Alta |
 |RNF-08 |A aplicação deve ser de fácil manutenção. |Média |
 
-
+**Prioridade: Alta / Média / Baixa.
 
 
