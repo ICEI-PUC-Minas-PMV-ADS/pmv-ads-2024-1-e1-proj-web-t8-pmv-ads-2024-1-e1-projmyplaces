@@ -75,7 +75,7 @@ preços dos restaurantes.</td>
 | ana| encontrar hoteis | teste 3|
 | pedro| encontrar restaurantes| teste 4|
 
-| João               |Como estou viajando a trabalho
+| João               |Como estou viajando a trabalho|
 | ...                | ...                       | ...
 
 ## Requisitos do Projeto
