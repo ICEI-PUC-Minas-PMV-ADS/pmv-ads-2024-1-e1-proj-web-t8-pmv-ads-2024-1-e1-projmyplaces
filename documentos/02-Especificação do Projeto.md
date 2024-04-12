@@ -105,7 +105,7 @@ preços dos restaurantes.</td>
 |RF-09 |A aplicação deve permitir fazer avaliações das cidades e estabelecimentos.|Baixa |
 |RF-10 |A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”. |Alta |
 |RF-11|A aplicação deve permitir a geolocalização do usuário. |Alta |
-|RF-12 |A aplicação deve conter um campo de busca por avaliações. |Média |
+|RF-12 |A aplicação deve conter um campo de busca por avaliações. |Média  |
 |RF-13 |A aplicação deve permitir alterar o idioma de português para inglês e vice-versa. |Alta |
 
 
