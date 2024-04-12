@@ -56,11 +56,7 @@ As ferramentas empregadas no projeto são:
 - Ferramentas de comunicação
 - Ferramentas de desenho de tela (wireframing)
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+As ferramentas de comunicação escolhidas oferecem uma abordagem visual mais organizada que simplifica o acompanhamento do projeto. Além disso, optamos por essa ferramenta para criar diagramas devido à sua facilidade de uso e capacidade de criar e compartilhar designs de alta qualidade.
 
 <p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub, Figma e Trello, apresentadas com seu propósito na tabela que se segue.<p/>
 
