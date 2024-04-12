@@ -29,7 +29,7 @@ O quadro kanban está disponível no link https://trello.com/b/eOphSDUR/kanban-q
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/blob/main/documentos/img/QuadroKanbanMyPlaces.png?raw=true">
-    <figcaption>Figura 1: Representa o quadro Kanban utilizado no projeto.</figcaption>
+    <figcaption>Figura 1: Quadro Kanban utilizado no projeto.</figcaption>
 </figure> 
   
 <h3>Etiquetas</h3>
