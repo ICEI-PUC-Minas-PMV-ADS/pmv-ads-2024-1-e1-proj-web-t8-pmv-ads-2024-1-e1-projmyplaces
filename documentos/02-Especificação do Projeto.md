@@ -68,7 +68,7 @@ preços dos restaurantes.</td>
 ## Histórias de Usuários
 
 
-|EU COMO... `USUÁRIO`   | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO`                 |
+|EU COMO "USUÁRIO | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO`                 |
 |--------------------|-------------------------------------|----------------------------------|
 | Maria              | Como turista preciso encontrar durante meu trajeto, lojas de conveniência, para algumas comprinhas básicas.                            | Poder fazer algumascompras durante a viagem.                              |
 | Ana                | Me mudei de Minas para São Paulo e preciso saber onde pegar o metrô.     | Para se locomover na cidade, pois, além de ser mais econômico é mais rápido.
@@ -92,7 +92,7 @@ preços dos restaurantes.</td>
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID   | Descrição                | Prioridade |
+| ID  | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 | Na aplicação deve conter um campo de pesquisa.| Alta   | 
 | RF-02   |  A aplicação deverá ter um filtro para mostrar média de preço por estabelecimento.|Média |
