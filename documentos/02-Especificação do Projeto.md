@@ -78,7 +78,7 @@ preços dos restaurantes.</td>
 |Carlos |Trabalho com vendas e sempre estou na estrada, por isso, preciso saber os horários de funcionamento dos postos de gasolina, pois viajo sempre à noite|Saber onde posso abastecer durante o trajeto, no período noturno.|
 |Jean |Estou de passagem pelo Rio de Janeiro e desejo ir a um ponto turístico e bem movimentado à noite. |Conhecer o local, pessoas novas e me divertir.|
 |Felipe|Recentemente me mudei de São Paulo para Pernambuco e preciso saber qual o melhor supermercado próximo a minha residência. |fazer  as minhas compras com o melhor custo-benefício possível, e com variedades de opções.|
-|Ana Clara|Estou em viagem de férias e quero saber as opções de restaurantes próximos ao hotel onde estou hospedada, para escolher um para almoçar|Como o preço gasto em minhas refeições irão impactar diretamente nas minhas finanças, preciso de restaurantes com preços acessíveis. |  
+|Ana Clara|Estou em viagem de férias e quero saber as opções de restaurantes próximos ao hotel onde estou hospedada, para escolher um para almoçar|Como o gasto com as minhas refeições irão impactar diretamente nas minhas finanças, preciso de restaurantes com preços acessíveis. |  
 |Eduardo |Estou me mudando para o Rio Grande do Sul e desejo saber onde ficam os locais de lazer no bairro onde vou morar.|Gosto de locais abertos para me exercitar e me divertir. |
 
 
