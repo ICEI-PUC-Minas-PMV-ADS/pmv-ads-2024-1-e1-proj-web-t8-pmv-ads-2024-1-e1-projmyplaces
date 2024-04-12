@@ -94,8 +94,18 @@ preços dos restaurantes.</td>
 
 |ID    | Descrição                | Prioridade |
 |-------|---------------------------------|----|
-| RF-01 |  ...                    | ...   | 
-|  ...  |  ...                    | ...   |
+| RF-01 | Na aplicação deve conter um campo de pesquisa.| Alta   | 
+| RF-02   |  A aplicação deverá ter um filtro para mostrar média de preço por estabelecimento.|Média |
+|RF-03 |A aplicação deve fornecer horário de funcionamento dos estabelecimentos. |A aplicação deve fornecer horário de funcionamento dos estabelecimentos. |
+|RF-04 |A aplicação deve permitir fazer avaliação dos estabelecimentos. |Média|
+|RF-05 |A aplicação deve permitir ao usuário criar uma conta. |Alta |
+|RF-06 |A aplicação deve ter a funcionalidade de salvar as pesquisas. |Média|
+|RF-07 |A aplicação deve fazer filtro por tipo de estabelecimento. |Alta |
+|RF-08 |A aplicação deve permitir inserção de fotos das cidades e estabelecimentos. |Baixa |
+|RF-09 |A aplicação deve permitir fazer avaliações das cidades e estabelecimentos.|Baixa |
+|RF-10 |A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”. |Alta |
+
+
 
 **Prioridade: Alta / Média / Baixa. 
 
