@@ -92,7 +92,7 @@ preços dos restaurantes.</td>
 
 [Utilize o modelo de tabela abaixo para apresentar os requisitos funcionais]
 
-|ID    | Descrição                | Prioridade |
+|ID   | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 | Na aplicação deve conter um campo de pesquisa.| Alta   | 
 | RF-02   |  A aplicação deverá ter um filtro para mostrar média de preço por estabelecimento.|Média |
