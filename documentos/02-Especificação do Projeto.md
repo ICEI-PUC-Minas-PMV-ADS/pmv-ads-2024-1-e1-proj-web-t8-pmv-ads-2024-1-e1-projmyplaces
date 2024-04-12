@@ -95,7 +95,7 @@ preços dos restaurantes.</td>
 | ID  | Descrição                | Prioridade |
 |-------|---------------------------------|----|
 | RF-01 | Na aplicação deve conter um campo de pesquisa.| Alta   | 
-| RF-02   |A aplicação deverá ter um filtro para mostrar média de preço por estabelecimento.|média|
+| RF-02   |A aplicação deverá ter um filtro para mostrar média de preço por estabelecimento.|Média|
 |RF-03 |A aplicação deve fornecer horário de funcionamento dos estabelecimentos.|Alta|
 |RF-04 |A aplicação deve permitir fazer avaliação dos estabelecimentos. |Média|
 |RF-05 |A aplicação deve permitir ao usuário criar uma conta. |Alta |
@@ -105,7 +105,7 @@ preços dos restaurantes.</td>
 |RF-09 |A aplicação deve permitir fazer avaliações das cidades e estabelecimentos.|Baixa |
 |RF-10 |A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”. |Alta |
 |RF-11|A aplicação deve permitir a geolocalização do usuário. |Alta |
-|RF-12 |A aplicação deve conter um campo de busca por avaliações.|Média|
+|RF-12 |A aplicação deve conter um campo de busca por avaliações.|Media|
 |RF-13 |A aplicação deve permitir alterar o idioma de português para inglês e vice-versa. |Alta |
 
 
@@ -119,7 +119,7 @@ preços dos restaurantes.</td>
 | Id   | Descrição               |Prioridade |
 |--------|-------------------------|----|
 | RNF-01 |A aplicação deve ser responsiva executando de forma consistente em dispositivos móveis. |Alta |
-|RNF-02 |A aplicação deve ser compatível com os seguintes navegadores: Google Chrome, Firefox e Microsoft Edge. |Média |
+|RNF-02 |A aplicação deve ser compatível com os seguintes navegadores: Google Chrome, Firefox e Microsoft Edge. |Média|
 |RNF-03 |A aplicação deve atender o mínimo de 200 acessos simultâneos sem a degradação do desempenho. |Alta |
 |RNF-04 |A aplicação deve ser compatível com os sistemas Android e iOS. |Alta |
 |RNF-05 |A aplicação deve apresentar-se disponível 24h por dia, 7 dias por semana. |Alta |
@@ -127,8 +127,6 @@ preços dos restaurantes.</td>
 |RNF-07 |A aplicação deve ser escalável, aumentar ou diminuir sua capacidade conforme a necessidade. |Alta |
 |RNF-08 |A aplicação deve ser de fácil manutenção. |Média |
 
-|  ...                    | ...   | 
-| ...    |  ...                    | ...   | 
 
 **Prioridade: Alta / Média / Baixa. 
 
