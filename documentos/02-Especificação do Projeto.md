@@ -74,8 +74,7 @@ preços dos restaurantes.</td>
 | Ana                | Me mudei de Minas para São Paulo e preciso saber onde pegar o metrô.     | Para se locomover na cidade, pois, além de ser mais econômico é mais rápido.
 | ana| encontrar restaurante.| teste |
 
-| João               |Como estou viajando a trabalho|
-| ...                | ...                       | ...|
+
 
 ## Requisitos do Projeto
 
