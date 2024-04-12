@@ -68,8 +68,8 @@ preços dos restaurantes.</td>
 ## Histórias de Usuários
 
 
-|EU COMO... `QUEM`   | QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
-|--------------------|---------------------------|----------------------------------|
+|EU COMO... `USUÁRIO`   | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO`                 |
+|--------------------|-------------------------------------|----------------------------------|
 | Maria              |                           | ...                              |
 | ...                | ...                       | ...                              |
 
