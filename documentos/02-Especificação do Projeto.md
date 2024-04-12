@@ -118,7 +118,16 @@ preços dos restaurantes.</td>
 
 | Id   | Descrição               |Prioridade |
 |--------|-------------------------|----|
-| RNF-01 |  ...                    | ...   | 
+| RNF-01 |A aplicação deve ser responsiva executando de forma consistente em dispositivos móveis. |Alta |
+|RNF-02 |A aplicação deve ser compatível com os seguintes navegadores: Google Chrome, Firefox e Microsoft Edge. |Média |
+|RNF-03 |A aplicação deve atender o mínimo de 200 acessos simultâneos sem a degradação do desempenho. |Alta |
+|RNF-04 |A aplicação deve ser compatível com os sistemas Android e iOS. |Alta |
+|RNF-05 |A aplicação deve apresentar-se disponível 24h por dia, 7 dias por semana. |Alta |
+|RNF-06 |A aplicação deve manter os dados em segurança. |Alta |
+|RNF-07 |A aplicação deve ser escalável, aumentar ou diminuir sua capacidade conforme a necessidade. |Alta |
+|RNF-08 |A aplicação deve ser de fácil manutenção. |Média |
+
+|  ...                    | ...   | 
 | ...    |  ...                    | ...   | 
 
 **Prioridade: Alta / Média / Baixa. 
