@@ -127,5 +127,5 @@ preços dos restaurantes.</td>
 |RNF-08 |A aplicação deve ser de fácil manutenção. |Média |
 
 
-**Prioridade: Alta / Média / Baixa. 
+
 
