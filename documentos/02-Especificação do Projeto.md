@@ -73,10 +73,8 @@ preços dos restaurantes.</td>
 | Maria              | Como turista preciso encontrar durante meu trajeto, lojas de conveniência, para algumas comprinhas básicas.                            | Poder fazer algumascompras durante a viagem.                              |
 | Ana                | Me mudei de Minas para São Paulo e preciso saber onde pegar o metrô.     | Para se locomover na cidade, pois, além de ser mais econômico é mais rápido.
 |João  | Como estou viajando a trabalho e minha viagem é longa, preciso de um lugar para me hospedar durante a noite, bem como vários outros serviços básicos como: banheiros, acesso à internet, alimentação, farmácias entre outros. |Continuar o trajeto com segurança e sem sono.  
-
-Ter acesso a serviços básicos que atendam suas necessidades pessoais  |
-|Pedro |Estou em viagem e preciso ter um panorama geral das principais paradas pelo caminho, para me alimentar e usar o banheiro. |Programar quais serão as melhores paradas durante meu trajeto.  |
-|Luísa|Sou turista e estou na estrada, desejo saber onde encontro um serviço de mecânico mais próximo|Apesar da revisão meu carro está apresentando mau funcionamento|
+|Pedro|Estou em viagem e preciso ter um panorama geral das principais paradas pelo caminho, para me alimentar e usar o banheiro.|Programar quais serão as melhores paradas durante meu trajeto.|
+|Luísa|Sou turista e estou na estrada, desejo saber onde encontro um serviço de mecânico mais próximo|Apesar da revisão meu carro está apresentando mau funcionamento.|
 
 
 
