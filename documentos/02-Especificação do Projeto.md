@@ -70,8 +70,7 @@ preços dos restaurantes.</td>
 
 |EU COMO... `USUÁRIO`   | QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO`                 |
 |--------------------|-------------------------------------|----------------------------------|
-| Maria              |   Como turista preciso encontrar durante meu trajeto, lojas de conveniência, para algumas comprinhas básicas.                        | Poder fazer algumas
-compras durante a viagem....                              |
+| Maria              |   Como turista preciso encontrar durante meu trajeto, lojas de conveniência, para algumas comprinhas básicas.                        | Poder fazer algumascompras durante a viagem                              |
 | ...                | ...                       | ...                              |
 
 ## Requisitos do Projeto
