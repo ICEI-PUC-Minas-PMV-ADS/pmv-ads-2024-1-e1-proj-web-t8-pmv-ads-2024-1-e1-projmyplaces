@@ -33,7 +33,7 @@ O quadro kanban está disponível no link https://trello.com/b/eOphSDUR/kanban-q
 </figure> 
   
 <h3>Etiquetas</h3>
-<p>As atividades são etiquetadas para de acordo com sua categoria conforme descrito abaixo:</p>
+<p>As atividades são etiquetadas de acordo com sua categoria conforme descrito abaixo:</p>
 
 <ul>
   <li>Documentação</li>
