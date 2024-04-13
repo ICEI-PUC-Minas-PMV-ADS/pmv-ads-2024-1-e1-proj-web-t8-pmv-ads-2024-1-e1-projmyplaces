@@ -13,7 +13,7 @@ Marleta Cazarré. Imigrantes enfrentam falta de informação no país, diz pesqu
 
  
 
-BRASIL.Ministério do Turismo. GOV.BR. Brasil recebe mais de 3,2 milhões de turistas internacionais no primeiro semestre de 2023. Disponível em: <  https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2023/07/brasil-recebe-mais-de-3-2-milhoes-de-turistas-internacionais-no-primeiro-semestre-de-2023#  >. Acesso em: 12 mar. 2024. 
+BRASIL.Ministério do Turismo.Brasil recebe mais de 3,2 milhões de turistas internacionais no primeiro semestre de 2023. Disponível em: <  https://www.gov.br/pt-br/noticias/educacao-e-pesquisa/2023/07/brasil-recebe-mais-de-3-2-milhoes-de-turistas-internacionais-no-primeiro-semestre-de-2023#  >. Acesso em: 12 mar. 2024. 
 
  
 >
