@@ -6,7 +6,7 @@ Com os avanços nos meios de transporte e tecnológicos essa locomoção se dá 
 Segundo uma pesquisa feita pela revista Exame em agosto de 2023, 1 a cada 4 brasileiros pretende viajar a turismo nos próximos seis meses, levando em consideração este dado, o processo de conhecer novas localidades, tende a seguir nos próximos anos. Podemos citar também, aquelas pessoas que viajam a trabalho ou que estão se mudando de uma região para outra.
 
 ## Problema
-Diante do exposto,esse projeto, visa solucionar problemas enfrentados pelos usuários, no dia a dia, quando se locomovem em lugares descoonhecidos e precisam localizar lugares, como: restaurantes, hotéis, banheiros, postos de gasolina, etc.
+Diante do exposto,esse projeto, visa solucionar problemas enfrentados pelos usuários, no dia a dia, quando se locomovem em lugares desconhecidos e precisam localizar lugares, como: restaurantes, hotéis, banheiros, postos de gasolina, etc.
 
 
 ## Objetivos
