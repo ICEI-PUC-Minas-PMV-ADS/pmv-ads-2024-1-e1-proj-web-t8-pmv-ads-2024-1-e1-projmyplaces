@@ -71,7 +71,7 @@ As ferramentas de comunicação escolhidas oferecem uma abordagem visual mais or
 Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/tree/main/codigo-fonte). 
 - Backlog do produto: Estão todas as atividades que serão executadas no projeto.  
 - A Fazer: Atividades para fazer durante a sprint. 
-- Em andamento: São tarefas que foram estão sendo executadas. 
+- Em andamento: São tarefas que estão sendo executadas. 
 - Concluído: São as atividades feitas e testadas que já estão prontas para produção.
 
 > **Links Úteis**:
