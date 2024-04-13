@@ -28,7 +28,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 O quadro kanban está disponível no link https://trello.com/b/eOphSDUR/kanban-quadro-myplaces onde está sendo alimentado conforme o avanço do projeto.
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/blob/main/documentos/img/QuadroKanbanMyPlaces.png?raw=true">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/blob/main/documentos/img/Etiquetas.png">
     <figcaption>Figura 1: Quadro Kanban utilizado no projeto.</figcaption>
 </figure> 
   
