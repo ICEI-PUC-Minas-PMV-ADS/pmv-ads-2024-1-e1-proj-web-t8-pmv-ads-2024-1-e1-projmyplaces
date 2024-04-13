@@ -68,11 +68,11 @@ As ferramentas de comunicação escolhidas oferecem uma abordagem visual mais or
 
 ### Estratégia de Organização de Codificação 
 
-Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/codigo-fonte). 
-- Backlog: recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista. 
-- To Do: Esta lista representa o Sprint Backlog. Este é o Sprint atual que estamos trabalhando. 
-- Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá. 
-- Done: nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
+Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/tree/main/codigo-fonte). 
+- Backlog do produto: Estão todas as atividades que serão executadas no projeto.  
+- A Fazer: Atividades para fazer durante a sprint. 
+- Em andamento: São tarefas que foram estão sendo executadas. 
+- Concluído: São as atividades feitas e testadas que já estão prontas para produção.
 
 > **Links Úteis**:
 > - [Project management, made simple](https://github.com/features/project-management/)
