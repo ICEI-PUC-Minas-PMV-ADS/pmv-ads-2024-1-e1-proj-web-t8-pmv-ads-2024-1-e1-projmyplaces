@@ -2,7 +2,7 @@
 
 Desde o início das civilizações, já existia a necessidade de locomoção dos seres humanos.
 Um exemplo disso, são os povos nômades, que surgiram na Pré-História.A locomoção era uma forma de sobrevivência dos povos.
-Com os avanços nos meios de transporte e tecnológicos essa locomoção se dá de forma mais rápida e dinâmica, consequentemente, cada vez mais, sugem necessidades de meios que auxiliem na localização de lugares, pois, conforme as pessoas transitam de um lugar para outro, elas precisam saber onde encontrar recursos para sanar suas necessidades. 
+Com os avanços nos meios de transporte e tecnológicos essa locomoção se dá de forma mais rápida e dinâmica, consequentemente, cada vez mais, surgem necessidades de meios que auxiliem na localização de lugares, pois, conforme as pessoas transitam de um lugar para outro, elas precisam saber onde encontrar recursos para sanar suas necessidades. 
 Segundo uma pesquisa feita pela revista Exame em agosto de 2023, 1 a cada 4 brasileiros pretende viajar a turismo nos próximos seis meses, levando em consideração este dado, o processo de conhecer novas localidades, tende a seguir nos próximos anos. Podemos citar também, aquelas pessoas que viajam a trabalho ou que estão se mudando de uma região para outra.
 
 ## Problema
