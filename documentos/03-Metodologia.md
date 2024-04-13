@@ -45,7 +45,7 @@ O quadro kanban está disponível no link https://trello.com/b/eOphSDUR/kanban-q
 </ul>
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/tree/main/documentos/img/Etiquetas.png">
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/tree/main/documentos/img/Etiquetas.png?raw=true">
     <figcaption>Figura 2 - Etiqueta de cores.</figcaption>
 </figure> 
   
