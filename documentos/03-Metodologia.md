@@ -20,8 +20,8 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 
 <ul>
   <li>Backlog do Produto: Contém todas as atividades a serem feitas, novas atividades que surgirem no projeto serão acrescentadas.</li>
-  <li>A fazer: esta lista representa o backlog da Sprint.</li>
-  <li>Em andamento: São as atividades que estão sendo feitas.</li>
+  <li>A fazer: Esta lista representa o backlog da Sprint.</li>
+  <li>Em andamento: Lista as atividades que estão sendo executadas.</li>
   <li>Concluído: Nessa lista estão todas as atividades que foram finalizadas.</li>
  </ul>
 
