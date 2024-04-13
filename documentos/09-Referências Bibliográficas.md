@@ -7,7 +7,7 @@ CUNHA, Fernando. **Requisitos funcionais e não funcionais: o que são?**. 2022.
 
  
 
-CAZARRÉ, Marleta . **Imigrantes enfrentam falta de informação no país, diz pesquisa**. 2015. Disponível em: < https://agenciabrasil.ebc.com.br/geral/noticia/2015-11/imigrantes-enfrentam-falta-de-informacao-no-pais-diz-pesquisa  >. Acesso em: 16 mar. 2024. 
+CAZARRÉ, Marleta . **Imigrantes enfrentam falta de informação no país, diz pesquisa**.Agência Brasil, 13 Nov 2015. Disponível em: < https://agenciabrasil.ebc.com.br/geral/noticia/2015-11/imigrantes-enfrentam-falta-de-informacao-no-pais-diz-pesquisa  >. Acesso em: 16 mar. 2024. 
 
  
 
