@@ -7,7 +7,7 @@
 
  
 
-CAZARRÉ, Marleta . Imigrantes enfrentam falta de informação no país, diz pesquisa. 2015. < https://agenciabrasil.ebc.com.br/geral/noticia/2015-11/imigrantes-enfrentam-falta-de-informacao-no-pais-diz-pesquisa  >. Acesso em: 16 mar. 2024. 
+CAZARRÉ, Marleta . **Imigrantes enfrentam falta de informação no país, diz pesquisa**. 2015. < https://agenciabrasil.ebc.com.br/geral/noticia/2015-11/imigrantes-enfrentam-falta-de-informacao-no-pais-diz-pesquisa  >. Acesso em: 16 mar. 2024. 
 
  
 
