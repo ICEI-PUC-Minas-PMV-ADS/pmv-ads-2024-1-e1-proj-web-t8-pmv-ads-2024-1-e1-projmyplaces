@@ -116,7 +116,7 @@ preços dos restaurantes.</td>
 
 
 | Id   | Descrição               |Prioridade |
-|--------|-------------------------|----|
+|---------|-------------------------|----|
 | RNF-01 |A aplicação deve ser responsiva executando de forma consistente em dispositivos móveis. |Alta |
 |RNF-02 |A aplicação deve ser compatível com os seguintes navegadores: Google Chrome, Firefox e Microsoft Edge. |Média|
 |RNF-03 |A aplicação deve atender o mínimo de 200 acessos simultâneos sem a degradação do desempenho. |Alta |
