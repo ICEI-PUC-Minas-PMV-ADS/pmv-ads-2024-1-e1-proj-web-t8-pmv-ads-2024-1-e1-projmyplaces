@@ -81,6 +81,6 @@ O login não é necessário para realizar as buscas, mas será obrigatório para
 
 </figure>
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/blob/main/documentos/img/7-Login.jpg"> 
-    <figcaption>Figura 7 - Destaques
+    <figcaption>Figura 7 - Tela de login.
 </figure>
 <hr>
