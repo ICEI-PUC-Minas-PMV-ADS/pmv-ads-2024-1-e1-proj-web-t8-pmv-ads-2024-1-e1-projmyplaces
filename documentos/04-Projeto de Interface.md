@@ -25,7 +25,7 @@ Nessa tela o usuário pode fazer login, acessar locais de destaque próximos a e
 </figure>
 <hr>
 
-### 2 - Localizaçáo por mapa
+### 2 - Localização por mapa
 
 Aqui é possível se localizar utilizando o georreferenciamento, acessar estabelecimentos, ativar filtros, ir para a busca de rotas ou fazer nova pesquisa.
 
