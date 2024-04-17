@@ -15,7 +15,7 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 
 Como objetivos específicos, podemos citar:
 
-•Desenvolver uma plataforma digital abrangente forneça informações precisas e atualizadas sobre pontos de acesso, como restaurantes,
+•Desenvolver uma plataforma digital abrangente que forneça informações precisas e atualizadas sobre pontos de acesso, como restaurantes,
 postos de combustível, hospitais, farmácias, etc;
 
 • Criar um sistema de geolocalização integrado à plataforma, para ajudar os usuários a
