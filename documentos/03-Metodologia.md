@@ -64,7 +64,7 @@ As ferramentas de comunicação escolhidas oferecem uma abordagem visual mais or
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Documentos do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces |
 |Projeto de interface e wireframes | Figma |https://www.figma.com/proto/ejFv1BhSGfapMhtXNPPIap/Untitled?type=design&t=dSEg5uWy2gNSiAJZ-1&scaling=scale-down&page-id=0%3A1&node-id=6-431&starting-point-node-id=6%3A431&show-proto-sidebar=1|
-|Gerenciamento do projeto  | Git Projects |https://github.com/users/Lucineia2024/projects/3/views/1|
+|Gerenciamento do projeto  | Git Projects |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1073|
 
 ### Estratégia de Organização de Codificação 
 
