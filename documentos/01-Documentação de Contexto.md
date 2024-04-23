@@ -30,9 +30,7 @@ comunidade virtual que compartilhe experiências e conhecimentos sobre os destin
 
 ## Justificativa
 
-Segundo pesquisa da CNN Brasil, 48% dos entrevistados pretendem conhecer o
-Nordeste em 2024, seguido por Sudeste (38%), Sul (16%), Norte (7%) e Centro-Oeste (6%), o
-estudo também revela que 43% dos brasileiros pretendem viajar este ano.
+" Mais de 3,2 milhões de turistas internacionais visitaram o Brasil no primeiro semestre deste ano. O número representa 92% do total de turistas internacionais que o país recebeu durante todo o ano de 2022, quando 3,6 milhões de estrangeiros entraram no Brasil"( Ministério do Turismo, 2023 ).
 
 Outra pesquisa realizada pela Agência Brasil cita a " Falta de informação, dificuldades com o idioma e acesso à documentação como os principais obstáculos para os estrangeiros no país "( Cazarré, 2015). Além dos problemas, sociais, econômicos e políticos, esses imigrantes ainda precisam lidar com as dificuldades de locomoção em um país estrangeiro. 
 Pensando nisso a aplicação será desenvolvida para sanar as dificuldades dessas pessoas em  encontrar pontos de comodidades em um lugar desconhecido. 
