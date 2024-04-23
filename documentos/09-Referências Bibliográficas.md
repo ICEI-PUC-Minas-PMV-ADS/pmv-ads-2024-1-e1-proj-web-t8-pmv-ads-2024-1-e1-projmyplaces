@@ -1,7 +1,7 @@
 # Referências Bibliográficas
 
 
-**1 em cada 4 brasileiros pretende viajar a turismo nos próximos seis meses**.Pesquisa da Futura Inteligência mostra que 85,5% dos que pretendem realizar viagens nos próximos dois anos preferem destinos dentro do Brasil. Exame, 03 ago. 2023. Disponível em : https://exame.com/casual/1-em-cada-4-brasileiros-pretende-viajar-a-turismo-nos-proximos-seis-meses/. Acesso em: 08 mar. 2024. 
+**1 em cada 4 brasileiros pretende viajar a turismo nos próximos seis meses**.Pesquisa da Futura Inteligência mostra que 85,5% dos que pretendem realizar viagens nos próximos dois anos preferem destinos dentro do Brasil. Exame, 3 ago. 2023. Disponível em : https://exame.com/casual/1-em-cada-4-brasileiros-pretende-viajar-a-turismo-nos-proximos-seis-meses/. Acesso em: 08 mar. 2024. 
 
 
 >  
