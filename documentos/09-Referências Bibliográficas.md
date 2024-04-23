@@ -1,9 +1,12 @@
 # Referências Bibliográficas
 
 
+**1 em cada 4 brasileiros pretende viajar a turismo nos próximos seis meses**.Pesquisa da Futura Inteligência mostra que 85,5% dos que pretendem realizar viagens nos próximos dois anos preferem destinos dentro do Brasil. Exame, 3 ago. 2023. Disponível em : https://exame.com/casual/1-em-cada-4-brasileiros-pretende-viajar-a-turismo-nos-proximos-seis-meses/. Acesso em: 08 mar. 2024. 
+
+
 >  
 
-CUNHA, Fernando. **Requisitos funcionais e não funcionais: o que são?**. Mestres da web, 7 Dez. 2022. Disponível em: < https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao >. Acesso em: 08 mar. 2023. 
+CUNHA, Fernando. **Requisitos funcionais e não funcionais: o que são?**. Mestres da web, 7 Dez. 2022. Disponível em: < https://www.mestresdaweb.com.br/tecnologias/requisitos-funcionais-e-nao-funcionais-o-que-sao >. Acesso em: 08 mar. 2024. 
 
  
 
