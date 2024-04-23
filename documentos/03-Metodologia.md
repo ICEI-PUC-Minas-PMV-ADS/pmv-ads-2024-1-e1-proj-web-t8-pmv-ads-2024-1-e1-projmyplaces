@@ -74,11 +74,6 @@ Todos os artefatos relacionados a implementação e visualização dos conteúdo
 - Em andamento: São tarefas que estão sendo executadas. 
 - Concluído: São as atividades feitas e testadas que já estão prontas para produção.
 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 
 
