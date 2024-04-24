@@ -4,7 +4,7 @@
 ## Gerenciamento de Projeto
 Para o desenvolvimento deste projeto foi escolhido o método ágil SCRUM que de acordo com Ken Schwaber e Jeff Sutherland no Guia Scrum-Guide-Portuguese,
 
-"É um framework dentro do qual você pode empregar vários processos ou técnicas. O Scrum deixa claro a eficácia relativa das práticas de gerenciamento e desenvolvimento de produtos, de modo que você possa melhorá-las" (Schawaber; Sutherland).
+"É um framework dentro do qual você pode empregar vários processos ou técnicas. O Scrum deixa claro a eficácia relativa das práticas de gerenciamento e desenvolvimento de produtos, de modo que você possa melhorá-las" (Schawaber; Sutherland, 2013).
 
 ### Divisão de Papéis
 
