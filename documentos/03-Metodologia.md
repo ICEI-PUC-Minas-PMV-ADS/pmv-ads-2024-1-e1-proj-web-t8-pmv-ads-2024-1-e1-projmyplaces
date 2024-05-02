@@ -4,7 +4,7 @@
 ## Gerenciamento de Projeto
 Para o desenvolvimento deste projeto foi escolhido o método ágil SCRUM que de acordo com Ken Schwaber e Jeff Sutherland no Guia Scrum-Guide-Portuguese,
 
-“É um framework dentro do qual você pode empregar vários processos ou técnicas. O Scrum deixa claro a eficácia relativa das práticas de gerenciamento e desenvolvimento de produtos, de modo que você possa melhorá-las.”
+"É um framework dentro do qual você pode empregar vários processos ou técnicas. O Scrum deixa claro a eficácia relativa das práticas de gerenciamento e desenvolvimento de produtos, de modo que você possa melhorá-las" (Schawaber; Sutherland, 2013).
 
 ### Divisão de Papéis
 
@@ -64,7 +64,7 @@ As ferramentas de comunicação escolhidas oferecem uma abordagem visual mais or
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Documentos do projeto  | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces |
 |Projeto de interface e wireframes | Figma |https://www.figma.com/proto/ejFv1BhSGfapMhtXNPPIap/Untitled?type=design&t=dSEg5uWy2gNSiAJZ-1&scaling=scale-down&page-id=0%3A1&node-id=6-431&starting-point-node-id=6%3A431&show-proto-sidebar=1|
-|Gerenciamento do projeto  | Trello |https://trello.com/b/eOphSDUR/kanban-quadro-myplaces|
+|Gerenciamento do projeto  | GitHub |https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1073|
 
 ### Estratégia de Organização de Codificação 
 
@@ -74,11 +74,6 @@ Todos os artefatos relacionados a implementação e visualização dos conteúdo
 - Em andamento: São tarefas que estão sendo executadas. 
 - Concluído: São as atividades feitas e testadas que já estão prontas para produção.
 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
 
 
 

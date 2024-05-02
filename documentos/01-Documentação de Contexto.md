@@ -3,7 +3,8 @@
 Desde o início das civilizações, já existia a necessidade de locomoção dos seres humanos.
 Um exemplo disso, são os povos nômades, que surgiram na Pré-História.A locomoção era uma forma de sobrevivência dos povos.
 Com os avanços nos meios de transporte e tecnológicos essa locomoção se dá de forma mais rápida e dinâmica, consequentemente, cada vez mais, surgem necessidades de meios que auxiliem na localização de lugares, pois, conforme as pessoas transitam de um lugar para outro, elas precisam saber onde encontrar recursos para sanar suas necessidades. 
-Segundo uma pesquisa feita pela revista Exame em agosto de 2023, 1 a cada 4 brasileiros pretende viajar a turismo nos próximos seis meses, levando em consideração este dado, o processo de conhecer novas localidades, tende a seguir nos próximos anos. Podemos citar também, aquelas pessoas que viajam a trabalho ou que estão se mudando de uma região para outra.
+"Um em cada quatro brasileiros pretende viajar a turismo nos próximos seis meses"( Futura Inteligência, 2023 ).
+Levando em consideração este dado, o processo de conhecer novas localidades tende a seguir nos próximos anos, além daquelas pessoas que precisam viajar a trabalho. Podemos citar também, aquelas pessoas que estão mudando para alguma região desconhecida.
 
 ## Problema
 Diante do exposto,esse projeto, visa solucionar problemas enfrentados pelos usuários, no dia a dia, quando se locomovem em lugares desconhecidos e precisam localizar lugares, como: restaurantes, hotéis, banheiros, postos de gasolina, etc.
@@ -29,18 +30,12 @@ comunidade virtual que compartilhe experiências e conhecimentos sobre os destin
 
 ## Justificativa
 
-Segundo pesquisa da CNN Brasil, 48% dos entrevistados pretendem conhecer o
-Nordeste em 2024, seguido por Sudeste (38%), Sul (16%), Norte (7%) e Centro-Oeste (6%), o
-estudo também revela que 43% dos brasileiros pretendem viajar este ano.
+" Mais de 3,2 milhões de turistas internacionais visitaram o Brasil no primeiro semestre deste ano. O número representa 92% do total de turistas internacionais que o país recebeu durante todo o ano de 2022, quando 3,6 milhões de estrangeiros entraram no Brasil"( Ministério do Turismo, 2023 ).
 
-Outra pesquisa realizada no ano de 2015 por Marieta Cazarré – Repórter da Agência
-Brasil menciona sofre os desafios dos imigrantes sobre a falta de informação quando se
-mudam para uma nova localidade, devido a fatores políticos, sociais, econômicos etc.
+Outra pesquisa realizada pela Agência Brasil cita a " Falta de informação, dificuldades com o idioma e acesso à documentação como os principais obstáculos para os estrangeiros no país "( Cazarré, 2015). Além dos problemas, sociais, econômicos e políticos, esses imigrantes ainda precisam lidar com as dificuldades de locomoção em um país estrangeiro. 
+Pensando nessas dificuldades, a aplicação desse projeto será desenvolvida para ajudar essas pessoas encontrarem pontos de comodidades e necessidades em um lugar desconhecido. 
 
-Pensando nisso a aplicação será desenvolvida para sanar as dificuldades dessas pessoas em  
-encontrar pontos de comodidades em um lugar desconhecido. 
-
-
+ 
 ## Público-Alvo
 
 Estabeleceu-se como público-alvo desta solução, homens e mulheres (20 a 50 anos),
