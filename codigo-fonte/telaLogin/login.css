@@ -9,8 +9,6 @@
 }
 body{
     background-color: rgba(190, 199, 221, 0.603);
-    /*background-image: url('/documentos/img/Logomarca.jpeg');
-    background-size: cover;*/
 }
 textarea:focus, input:focus{
     outline: none;
