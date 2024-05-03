@@ -45,7 +45,7 @@ O quadro kanban está disponível no link https://github.com/orgs/ICEI-PUC-Minas
 </ul>
 
 <figure> 
-  <img src="/documentos/img/etiquetas.png">
+  <img src="/documentos/img/Etiquetas.png">
     <figcaption>Figura 2 - Etiqueta de cores.</figcaption>
 </figure> 
   
