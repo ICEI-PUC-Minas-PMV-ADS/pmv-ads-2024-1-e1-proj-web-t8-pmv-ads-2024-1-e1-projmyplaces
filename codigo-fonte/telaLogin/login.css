@@ -73,6 +73,8 @@ input[type="submit"]:hover{
     background-color: blue;
     transition: 1ms;
 }
-#cadastro{
-    margin: top 20px; ;
+
+#cadastro p{
+    margin-bottom: 10px;
+    margin-top: 10px;
 }
