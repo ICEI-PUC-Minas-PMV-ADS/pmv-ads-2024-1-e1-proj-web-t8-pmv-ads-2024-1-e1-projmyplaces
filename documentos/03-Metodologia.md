@@ -25,10 +25,10 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
   <li>Concluído: Nessa lista estão todas as atividades que foram finalizadas.</li>
  </ul>
 
-O quadro kanban está disponível no link https://trello.com/b/eOphSDUR/kanban-quadro-myplaces onde está sendo alimentado conforme o avanço do projeto.
+O quadro kanban está disponível no link https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/1073/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C90981595%2C90981597%2C90981596%2C%22Labels%22%5D onde está sendo alimentado conforme o avanço do projeto.
 
 <figure> 
-  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/blob/main/documentos/img/QuadroKanbanMyPlaces.png">
+  <img src="/documentos/img/quadroKanban.png">
     <figcaption>Figura 1: Quadro Kanban utilizado no projeto.</figcaption>
 </figure> 
   
@@ -36,12 +36,12 @@ O quadro kanban está disponível no link https://trello.com/b/eOphSDUR/kanban-q
 <p>As atividades são etiquetadas de acordo com sua categoria conforme descrito abaixo:</p>
 
 <ul>
-  <li>Documentação</li>
-  <li>Infraestrutura</li>
-  <li>Erro</li>
   <li>Desenvolvimento</li>
-  <li>Testes</li>
-  <li>Gerenciamento de projeto</li>
+  <li>Documentação</li>
+  <li>Erros</li>
+  <li>Infraestrutura</li>
+  <li>Melhorias</li>
+  <li>Teste</li>
 </ul>
 
 <figure> 
