@@ -12,7 +12,7 @@ Diante do exposto,esse projeto, visa solucionar problemas enfrentados pelos usu�
 
 ## Objetivos
 
-O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos usuários localizarem lugares que ofereçam serviços variados, facilitando assim o dia a dia das pessoas que necessitarem localizar um restaurante, um banheiro público ou uma farmácia, por exemplo, mesmo em algum lugar desconhecido isso será possível, através do aplicativo.
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos usuários localizarem lugares que ofereçam serviços variados, facilitando assim o dia a dia das pessoas que necessitarem localizar um restaurante, um banheiro público ou uma farmácia,por exemplo. Mesmo em algum lugar desconhecido isso será possível, através do aplicativo.
 
 Como objetivos específicos, podemos citar:
 
