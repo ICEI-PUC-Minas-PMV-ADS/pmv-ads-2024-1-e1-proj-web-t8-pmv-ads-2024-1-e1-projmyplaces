@@ -3,10 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Login</title>
+    <title>Login MyPlaces</title>
     <link rel="stylesheet" href="login.css">
-
-
+    <script src="login.js"></script>
+    
 </head>
 <body>
     <div id= "login">
@@ -17,7 +17,7 @@
             <label for="password">Senha</label>
             <input type="password" nome="password" id="password" placeholder="Digite a sua Senha">
             <a href="#" id="forgot-pass">Esqueceu a senha?</a>
-            <input type="submit" value="Continuar">
+            <input type="submit" onclick="logar()" value="Continuar">
         </form>
         <div id="cadastro">
             <p>Não tem uma conta?</p>
