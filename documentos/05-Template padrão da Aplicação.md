@@ -12,7 +12,7 @@ box-sizing: border-box\
 font-family: Arial, Helvetica, sans-serif\
 color: #02080c\
 border: none\
-background-color: rgba(190, 199, 221, 0.603)\
+background-color: rgba(190, 199, 221, 0.603)
 
 **Imagem da Logomarca:**
 ![Logomarca](/documentos/img/Logomarca.jpeg)
