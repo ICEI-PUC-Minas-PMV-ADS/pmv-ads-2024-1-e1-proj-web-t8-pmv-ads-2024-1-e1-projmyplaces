@@ -15,14 +15,17 @@ Imagem da tela de login:
 ![Tela de login](/documentos/img/7-Login.jpg)
 
 
-#### Requisito atendido
+#### Requisitos atendidos
 
-[RF-X: adicione a descrição do requisito atendido]
+RF-05	A aplicação deve permitir ao usuário criar uma conta.
+RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.
 
 
 #### Artefatos da funcionalidade
 
-[Adicione os nomes dos arquivos relacionados ao desenvolvimento da funcionalidade]
+*login.html
+*login.css
+*login.js
 
 
 #### Estrutura de Dados
