@@ -6,8 +6,6 @@ Pré-requisitos: [Especificação do Projeto](/documentos/02-Especificação%20d
 
 ### Tela de Login (RF-05, RF-10)
 
-Responsável: Lucineia
-
 A tela de login pode ser localizada no canto superior direito da página. Foi estruturada utilizando as linguagens html, css e JavaScript.
 
 Imagem da tela de login:
@@ -17,15 +15,12 @@ Imagem da tela de login:
 
 #### Requisitos atendidos
 
-RF-05	A aplicação deve permitir ao usuário criar uma conta.
-RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.
+RF-05	A aplicação deve permitir ao usuário criar uma conta.  RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.
 
 
 #### Artefatos da funcionalidade
 
-*login.html
-*login.css
-*login.js
+*login.html  *login.css  *login.js
 
 
 #### Estrutura de Dados
@@ -35,12 +30,12 @@ RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “es
 
 #### Instruções de acesso
 
-[Adicione as orientações de acesso à funcionalidade]
+Ao acessar a página principal do MyPlaces clique em Login no canto superior da página.
 
 
 #### Responsável
 
-[Adicione nome do responsável pelo desenvolvimento da funcionalidade]
+Lucineia
 
 
 
