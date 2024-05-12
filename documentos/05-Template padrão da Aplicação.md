@@ -6,11 +6,6 @@ Abaixo temos a imagem da estrutura da nossa aplicação.
 ![Layout da pagina](/documentos/img/LayoutPagina.png)
 
 
-
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
-
-[Apresente a estrutura padrão da sua aplicação.]
-
 Imagem da Logomarca:
 ![Logomarca](/documentos/img/Logomarca.jpeg)
 
