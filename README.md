@@ -16,7 +16,6 @@ A aplicação permitirá que o usuário pesquise por lugares relacionados a laze
 * Bárbara Souto Prado
 * Kézia Ângela do Nascimento Souza
 * Solange Márcia de Paula
-* Thassiana Bernardes Santiago
 
 ## Orientador
 
