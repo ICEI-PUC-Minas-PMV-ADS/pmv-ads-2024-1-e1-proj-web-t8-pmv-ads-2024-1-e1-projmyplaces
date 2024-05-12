@@ -40,7 +40,30 @@ Ao acessar a página principal do MyPlaces clique em Login no canto superior da 
 Lucineia
 
 
+### Tela de Mapa (RF-01, RF-12)
+
+A tela de mapa pode ser acessada como resultado da busca inicial, possibilita o usuário fazer outras buscas, visualizar locais e rotas. Foi estruturada utilizando as linguagens html, css e JavaScript.
+
+Imagem da tela de login:
+
+![Tela de login](/documentos/img/telaBusca.png)
+
+#### Requisitos atendidos
+
+RF-01	Na aplicação deve conter um campo de pesquisa.\
+RF-10	A aplicação deve conter um campo de busca por avaliações.
+
+#### Artefatos da funcionalidade
+
+login.html\
+login.css\
+
+#### Instruções de acesso
+
+Após a primeira busca no MyPlaces o usuário poderá navegar entre o mapa ou escolher alguma das opções de busca oferecidas.
 
 
+#### Responsável
 
+Lucas
 
