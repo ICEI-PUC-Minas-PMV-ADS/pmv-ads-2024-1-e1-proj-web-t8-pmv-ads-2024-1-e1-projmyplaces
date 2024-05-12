@@ -16,14 +16,14 @@ Imagem da tela de login:
 #### Requisitos atendidos
 
 RF-05	A aplicação deve permitir ao usuário criar uma conta.\
-RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.\
+RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.
 
 
 #### Artefatos da funcionalidade
 
 login.html\
 login.css\
-login.js\
+login.js
 
 
 #### Estrutura de Dados
@@ -43,9 +43,5 @@ Lucineia
 
 
 
-> **Links Úteis**:
-> - [Trabalhando com HTML5 Local Storage e JSON](https://www.devmedia.com.br/trabalhando-com-html5-local-storage-e-json/29045)
-> - [JSON Tutorial](https://www.w3resource.com/JSON)
-> - [JSON - Introduction (W3Schools)](https://www.w3schools.com/js/js_json_intro.asp)
-> - [JSON Tutorial (TutorialsPoint)](https://www.tutorialspoint.com/json/index.htm)
+
 
