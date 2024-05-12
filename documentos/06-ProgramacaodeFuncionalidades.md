@@ -2,7 +2,6 @@
 
 Pré-requisitos: [Especificação do Projeto](/documentos/02-Especificação%20do%20Projeto.md) 
 
-[Utilize a estrutura abaixo para cada funcionalidade entregue na etapa]
 
 ### Tela de Login (RF-05, RF-10)
 
