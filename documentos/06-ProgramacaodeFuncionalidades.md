@@ -10,17 +10,20 @@ A tela de login pode ser localizada no canto superior direito da página. Foi es
 
 Imagem da tela de login:
 
-![Tela de login](/documentos/img/7-Login.jpg)
+![Tela de login](/documentos/img/telaLogin.png)
 
 
 #### Requisitos atendidos
 
-RF-05	A aplicação deve permitir ao usuário criar uma conta.  RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.
+RF-05	A aplicação deve permitir ao usuário criar uma conta.\
+RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.\
 
 
 #### Artefatos da funcionalidade
 
-*login.html  *login.css  *login.js
+login.html\
+login.css\
+login.js\
 
 
 #### Estrutura de Dados
