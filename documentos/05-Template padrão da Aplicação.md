@@ -3,7 +3,7 @@ O Layout padrão do site será feito com as linguagens HTML e JavaScript e para 
 
 Abaixo temos a imagem da estrutura da nossa aplicação.
 
-![Layout da pagina](/documentos/img/LayoutPagina)
+![Layout da pagina](/documentos/img/LayoutPagina.png)
 
 
 
