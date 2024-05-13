@@ -16,7 +16,7 @@ Nossa equipe é formada por:
 
 ### Processo
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o Trello, estruturado com as seguintes listas: 
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub Projects, estruturado com as seguintes listas: 
 
 <ul>
   <li>Backlog do Produto: Contém todas as atividades a serem feitas, novas atividades que surgirem no projeto serão acrescentadas.</li>
@@ -58,7 +58,7 @@ As ferramentas empregadas no projeto são:
 
 As ferramentas de comunicação escolhidas oferecem uma abordagem visual mais organizada que simplifica o acompanhamento do projeto. Além disso, optamos por essa ferramenta para criar diagramas devido à sua facilidade de uso e capacidade de criar e compartilhar designs de alta qualidade.
 
-<p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub, Figma e Trello, apresentadas com seu propósito na tabela que se segue.<p/>
+<p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e Figma, apresentadas com seu propósito na tabela que se segue.<p/>
 
 | AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
