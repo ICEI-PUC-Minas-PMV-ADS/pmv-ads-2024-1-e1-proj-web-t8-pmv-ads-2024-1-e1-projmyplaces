@@ -25,11 +25,6 @@ login.css\
 login.js
 
 
-#### Estrutura de Dados
-
-[Caso exista estrutura de dados, adicione aqui]
-
-
 #### Instruções de acesso
 
 Ao acessar a página principal do MyPlaces clique em Login no canto superior da página.
