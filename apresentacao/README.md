@@ -2,7 +2,7 @@
 
 1. Apresentação dos slides
 
-[Slides de Apresentação ](/documentos/SlidesApresentacao.pdf)
+[Slides de Apresentação ](/documentos/SlidesApresentacao.pdf)\
 [Slides de Apresentação etapa3 ](/documentos/SlidesApresentacaoEtapa3.pdf)
 
 ## Vídeo de apresentação
