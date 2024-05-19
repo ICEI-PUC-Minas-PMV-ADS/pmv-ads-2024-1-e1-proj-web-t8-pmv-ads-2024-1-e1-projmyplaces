@@ -1,0 +1,100 @@
+body{
+    margin: 0;
+}
+h1, h2{
+    margin: 0;
+    color: #666;
+}
+.tamanho{
+    max-width: 1920px;
+    width: 100%;
+}
+header{
+    position: relative;
+    top: 0;
+    height: auto;
+    width: 100%;
+}/*
+nav{
+    position: fixed;
+    top: 0;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+    
+}*/
+nav:after{
+    clear: both;
+    content: "";
+    display: block;
+}
+.nav-tamanho{
+    max-width: 1200px;
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+}
+#logo{
+    width: 132px;
+    height: 100%;
+}
+.nav-tamanho ul{
+    float: right;
+    height: 100%;
+    line-height: 100%;
+}
+.nav-tamanho li{
+    list-style: none;
+    float: left;
+    margin: 0 15px;
+    margin-top: 5px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-tamanho li a{
+    text-decoration: none;
+    color: #666;
+    transition: .5s;
+}
+.nav-tamanho li a:hover{
+    color: blue;
+}
+
+#div-banner{
+    background-color: rgb(228, 238, 235);
+    background-size: cover;
+    background-position: 0 55%;
+    position: relative;
+    margin-top: 1%;
+}
+#pesquisa-form{
+    position: relative;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15em;
+    padding-bottom: 15em;
+    text-align: center;
+}
+#pesquisa-form h1{
+    font-size: 40px;
+    padding-bottom: 40px;
+}
+#pesquisa-form input, #pesquisa-form select{
+    background-color: white;
+    border-radius: 5px;
+    border-color: transparent;
+    padding: 5px 10px;
+    font-size: 18px;
+    margin: 0 10px;
+}
+#pesquisa-form input[type=submit]{
+    background-color: #286fda;
+    text-transform: uppercase;
+    color: #fff;
+    cursor: pointer;
+    transition: 0,5s;
+}
+#pesquisa-form input[type=submit]:hover{
+    background-color: #93b6eb;
+}
