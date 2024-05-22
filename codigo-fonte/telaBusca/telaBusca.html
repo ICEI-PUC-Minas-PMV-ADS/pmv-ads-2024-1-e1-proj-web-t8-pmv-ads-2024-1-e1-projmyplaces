@@ -1,128 +1,52 @@
-body {
-  font-family: Arial, Helvetica, sans-serif;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  grid-template-columns: 30vw auto;
-}
+<!DOCTYPE html>
+<html lang="pt-br">
 
-.esquerda {
-  display: grid;
-  grid-template-rows: 30vh 70vh;
-  border-radius: 4px;
-}
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MyPlaces</title>
+  <link rel="stylesheet" href="telaBusca.css">
+</head>
 
-#esquerda-cima {
-  background-image: url(/img/cidade.jpg);
-  grid-row: 1;
-}
+<body>
+  <div class="esquerda">
 
-h1 {
-  color: #fff;
-  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
-}
+    <div id="esquerda-cima">
+      <header>
+        <img class="voltar" src="/img/back-03.svg" alt="voltar">
+        <h1>Nome da cidade</h1>
+      </header>
 
-header {
-  display: flex;
-  align-items: center;
-  margin-bottom: 30px;
-}
+      <div id="quadro1">
+        <div class="barra-busca">
+          <img id="lupa" src="/img/lupa.svg" alt="">
+          <input id="busca" type="text">
+          <span id=botao-buscar class="busca-iten">Buscar</span>
 
-.voltar {
-  width: 24px;
-  margin: 30px;
-}
+          <div class="rota">
+            <a class="rota-botao"="/">Encontrar Rota</a>
+          </div>
+        </div>
 
-#lupa {
-  width: 24px;
-}
+      </div>
+    </div>
 
-.barra-busca {
-  position: relative;
-}
+    <div id="quadro2">
+      <span></span>
+    </div>
+  </div>
 
-#busca {
-  display: block;
-  margin: auto;
-  width: 80%;
-  height: 50px;
-  border-radius: 20px;
-  border: 1px solid rgba(0, 0, 0, 0.2);
-  box-shadow: 0px 1px 1px 0px #838383;
-  padding-left: 60px;
-  font-size: 1rem;
-}
+  <div id="mapa">
+    <div id="filtro">
+      <a class="filtro-item" href="/">Restaurante</a>
+      <a class="filtro-item" href="/">Hospedagem</a>
+      <a class="filtro-item" href="/">Serviços</a>
+    </div>
 
-#lupa {
-  display: inline-block;
-  position: absolute;
-  left: 45px;
-  top: 15px;
-}
+    <img id="marca-dagua" src="/img/logo_MyPlaces.svg" alt="">
 
-#botao-buscar {
-  display: inline-block;
-  position: absolute;
-  padding: 5px 12px;
-  background-color: blueviolet;
-  color: #fff;
-  border-radius: 12px;
-  font-weight: bold;
-  align-self: center;
-  left: 450px;
-  top: 12px;
-}
+  </div>
 
-.rota-botao {
-  display: block;
-  margin: 30px auto;
-  padding: 15px;
-  background-color: blueviolet;
-  -webkit-box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.35);
-  box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.35);
-  width: 85%;
-  text-align: center;
-  border-radius: 20px;
-  color: white;
-  font-weight: bolder;
-}
+</body>
 
-#quadro2 {
-  grid-row: 2;
-  max-height: 100vh;
-  background-color: #eee;
-  height: 100vh;
-}
-
-#marca-dagua {
-  position: absolute;
-  width: 200px;
-  opacity: 0.2;
-  margin-left: 40px;
-  margin-bottom: 40px;
-  left: 85vw;
-  top: 92vh;
-}
-
-#mapa {
-  display: flex;
-}
-
-#filtro {
-  margin-top: 20px;
-  margin-left: 20px;
-}
-
-.filtro-item {
-  align-items: flex-start;
-  text-decoration: none;
-  padding: 8px 20px;
-  margin: 15px;
-  background-color: #eee;
-  border-radius: 20px;
-  font-size: 1.2rem;
-  -webkit-box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.35);
-  box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.35);
-  font-weight: bold;
-  color: #333;
-}
+</html>
