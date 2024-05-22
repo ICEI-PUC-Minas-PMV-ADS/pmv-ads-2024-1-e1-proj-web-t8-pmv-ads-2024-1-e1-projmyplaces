@@ -16,6 +16,6 @@ background-color: rgba(190, 199, 221, 0.603)
 
 Imagem da Logomarca:
 
-![Logomarca](/documentos/img/Logomarca.jpeg)
+![Logomarca](/documentos/img/Logomarca.png)
 
 
