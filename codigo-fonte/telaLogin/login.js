@@ -11,4 +11,10 @@
         }
     }
 
+    //armazenar os dados no LocalStorage//
+    function dados(){
+        localStorage.info = document.getElementById("email".value);
+    }
+    
+
 
