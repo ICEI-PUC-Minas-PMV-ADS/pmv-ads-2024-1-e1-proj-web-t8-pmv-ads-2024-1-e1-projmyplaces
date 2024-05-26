@@ -1,0 +1,128 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 30vw auto;
+}
+
+.esquerda {
+  display: grid;
+  grid-template-rows: 30vh 70vh;
+  border-radius: 4px;
+}
+
+#esquerda-cima {
+  background-image: url(/img/cidade.jpg);
+  grid-row: 1;
+}
+
+h1 {
+  color: #fff;
+  text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.5);
+}
+
+header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.voltar {
+  width: 24px;
+  margin: 30px;
+}
+
+#lupa {
+  width: 24px;
+}
+
+.barra-busca {
+  position: relative;
+}
+
+#busca {
+  display: block;
+  margin: auto;
+  width: 80%;
+  height: 50px;
+  border-radius: 20px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 1px 1px 0px #838383;
+  padding-left: 60px;
+  font-size: 1rem;
+}
+
+#lupa {
+  display: inline-block;
+  position: absolute;
+  left: 45px;
+  top: 15px;
+}
+
+#botao-buscar {
+  display: inline-block;
+  position: absolute;
+  padding: 5px 12px;
+  background-color: blueviolet;
+  color: #fff;
+  border-radius: 12px;
+  font-weight: bold;
+  align-self: center;
+  left: 450px;
+  top: 12px;
+}
+
+.rota-botao {
+  display: block;
+  margin: 30px auto;
+  padding: 15px;
+  background-color: blueviolet;
+  -webkit-box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.35);
+  box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.35);
+  width: 85%;
+  text-align: center;
+  border-radius: 20px;
+  color: white;
+  font-weight: bolder;
+}
+
+#quadro2 {
+  grid-row: 2;
+  max-height: 100vh;
+  background-color: #eee;
+  height: 100vh;
+}
+
+#marca-dagua {
+  position: absolute;
+  width: 200px;
+  opacity: 0.2;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  left: 85vw;
+  top: 92vh;
+}
+
+#mapa {
+  display: flex;
+}
+
+#filtro {
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.filtro-item {
+  align-items: flex-start;
+  text-decoration: none;
+  padding: 8px 20px;
+  margin: 15px;
+  background-color: #eee;
+  border-radius: 20px;
+  font-size: 1.2rem;
+  -webkit-box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.35);
+  box-shadow: 2px 2px 3px 1px rgba(0, 0, 0, 0.35);
+  font-weight: bold;
+  color: #333;
+}

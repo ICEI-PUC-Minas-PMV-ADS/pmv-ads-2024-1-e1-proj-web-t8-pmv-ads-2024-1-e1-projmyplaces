@@ -12,7 +12,7 @@ Diante do exposto,esse projeto, visa solucionar problemas enfrentados pelos usu�
 
 ## Objetivos
 
-O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos usuários localizarem lugares que ofereçam serviços variados, facilitando assim o dia a dia das pessoas que necessitarem localizar um restaurante, um banheiro público ou uma farmácia,por exemplo. Mesmo em algum lugar desconhecido isso será possível, através do aplicativo.
+O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos usuários localizarem lugares que ofereçam serviços variados, facilitando assim o dia a dia das pessoas que necessitarem localizar um restaurante, um banheiro público ou uma farmácia, por exemplo. Mesmo em algum lugar desconhecido isso será possível, através do aplicativo.
 
 Como objetivos específicos, podemos citar:
 
@@ -30,9 +30,9 @@ comunidade virtual que compartilhe experiências e conhecimentos sobre os destin
 
 ## Justificativa
 
-" Mais de 3,2 milhões de turistas internacionais visitaram o Brasil no primeiro semestre deste ano. O número representa 92% do total de turistas internacionais que o país recebeu durante todo o ano de 2022, quando 3,6 milhões de estrangeiros entraram no Brasil"( Ministério do Turismo, 2023 ).
+"Mais de 3,2 milhões de turistas internacionais visitaram o Brasil no primeiro semestre deste ano. O número representa 92% do total de turistas internacionais que o país recebeu durante todo o ano de 2022, quando 3,6 milhões de estrangeiros entraram no Brasil"( Ministério do Turismo, 2023).
 
-Outra pesquisa realizada pela Agência Brasil cita a " Falta de informação, dificuldades com o idioma e acesso à documentação como os principais obstáculos para os estrangeiros no país "( Cazarré, 2015). Além dos problemas, sociais, econômicos e políticos, esses imigrantes ainda precisam lidar com as dificuldades de locomoção em um país estrangeiro. 
+Outra pesquisa realizada pela Agência Brasil cita a "Falta de informação, dificuldades com o idioma e acesso à documentação como os principais obstáculos para os estrangeiros no país "(Cazarré, 2015). Além dos problemas, sociais, econômicos e políticos, esses imigrantes ainda precisam lidar com as dificuldades de locomoção em um país estrangeiro. 
 Pensando nessas dificuldades, a aplicação desse projeto será desenvolvida para ajudar essas pessoas encontrarem pontos de comodidades e necessidades em um lugar desconhecido. 
 
  
