@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criar uma conta no MyPlaces</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/codigo-fonte/criarConta/criarconta.css">
+    <script src="/codigo-fonte/criarConta/criarconta.js"></script>
+</head>
+<body>
+    <div id= "conta">
+        <h1>Criar conta</h1>
+        <form action="">
+            <label id="etiquetaNome" for="nome">Nome</label>
+            <input type="text" name="nome" id="nome" placeholder=""> 
+
+            <label id="etiquetaUsuario" for="usuario">Usuário</label>
+            <input type="text" name="usuario" id="usuario" placeholder=""> 
+
+            <label id="etiquetaSenha" for="password">Senha</label>
+            <i id="mostrarSenha" class="fa fa-eye" aria-hidden="true"></i>                            
+            <input type="password" nome="password" id="senha" placeholder="">  
+
+            <label id="etiquetaConfirmaSenha" for="confirmaSenha">Confimar Senha</label>   
+            <i id="mostrarConfirmaSenha" class="fa fa-eye" aria-hidden="true"></i>                                     
+            <input type="password" name="confirmarSenha" id="confirmaSenha" placeholder="">    
+
+            <input type="submit" onclick="criar()" value="Criar">
+            
+        </form>        
+    </div>
+</body>
+</html>

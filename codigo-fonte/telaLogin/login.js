@@ -11,10 +11,16 @@
         }
     }
 
-    //armazenar os dados no LocalStorage//
-    function dados(){
-        localStorage.info = document.getElementById("email".value);
-    }
+    //Botão ver senha
+    let btn = document.querySelector('.fa-eye')
+    btn = addEventListener('click', ()=>{
+        let inputPassword = document.querySelector('#senha')
     
+        if(inputPassword.getAttribute('type') == 'password'){
+            inputPassword.setAttribute('type', 'text')
+        } else{
+            inputPassword.setAttribute('type', 'password')
+        }
+    })
 
 
