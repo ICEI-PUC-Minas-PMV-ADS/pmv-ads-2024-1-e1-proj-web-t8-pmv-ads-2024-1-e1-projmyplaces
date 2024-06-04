@@ -6,29 +6,36 @@
     <title>Criar uma conta no MyPlaces</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/codigo-fonte/criarConta/criarconta.css">
-    <script src="/codigo-fonte/criarConta/criarconta.js"></script>
+    <script defer src="/codigo-fonte/criarConta/criarconta.js"></script>
+    
 </head>
 <body>
     <div id= "conta">
         <h1>Criar conta</h1>
-        <form action="">
-            <label id="etiquetaNome" for="nome">Nome</label>
-            <input type="text" name="nome" id="nome" placeholder=""> 
+
+        <div id="msgErro"></div>
+        <div id="msgSucesso"></div>
+
+        <form autocomplete="off">
+            <label id="etiquetaEmail" for="email">E-mail</label>
+            <input type="email" nome="email" id="email" placeholder="" autocomplete="off">
 
             <label id="etiquetaUsuario" for="usuario">Usuário</label>
-            <input type="text" name="usuario" id="usuario" placeholder=""> 
+            <input type="text" name="usuario" id="usuario" placeholder="" autocomplete="off" required> 
 
             <label id="etiquetaSenha" for="password">Senha</label>
             <i id="mostrarSenha" class="fa fa-eye" aria-hidden="true"></i>                            
-            <input type="password" nome="password" id="senha" placeholder="">  
+            <input type="password" name="password" id="password" placeholder=""  autocomplete="off" required>  
 
             <label id="etiquetaConfirmaSenha" for="confirmaSenha">Confimar Senha</label>   
             <i id="mostrarConfirmaSenha" class="fa fa-eye" aria-hidden="true"></i>                                     
-            <input type="password" name="confirmarSenha" id="confirmaSenha" placeholder="">    
+            <input type="password" name="confirmarSenha" id="confirmaSenha" placeholder="" autocomplete="off" required>    
 
             <input type="submit" onclick="criar()" value="Criar">
             
         </form>        
-    </div>
+    </div>    
+    
 </body>
+
 </html>
