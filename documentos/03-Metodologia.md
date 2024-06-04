@@ -11,8 +11,8 @@ Para o desenvolvimento deste projeto foi escolhido o método ágil SCRUM que de 
 Nossa equipe é formada por:
 - Scrum Master: Bárbara.
 - Product Owner: Lucineia Martins.
-- Equipe de Desenvolvimento: Lucineia Martins, Lucas Vinícius, Kézia Ângela e Bárbara Souto.
-- Equipe de Design: Lucas Vinícius, Kézia.
+- Equipe de Desenvolvimento: Lucineia Martins, Lucas Vinícius e Bárbara Souto.
+- Equipe de Design: Lucas Vinícius.
 
 ### Processo
 
