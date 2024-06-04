@@ -5,20 +5,24 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Login MyPlaces</title>
     <link rel="stylesheet" href="login.css">
-    <script src="login.js"></script>
+    <script src="login.js" defer></script>
     
     
 </head>
 <body>
     <div id= "login">
         <h1>Login</h1>
-        <form action="">
-            <label for="E-mail">E-mail</label>
-            <input type="email" nome="email" id="email" placeholder="Digite seu E-mail" autocomplete="off"> 
-            <label for="password">Senha</label>
-            <input type="password" nome="password" id="password" placeholder="Digite a sua Senha">
+
+        <div id="msgErro"></div>
+        <div id="msgSucesso"></div>
+
+        <form autocomplete="off">
+            <label id="labelEmail" for="email">E-mail</label>
+            <input type="email" nome="email" id="email" autocomplete="off" placeholder=""> 
+            <label id="labelPassword" for="password">Senha</label>
+            <input type="password" nome="password" id="password" autocomplete="off" placeholder="">
             <a href="#" id="forgot-pass">Esqueceu a senha?</a>
-            <input type="submit" onclick="logar()" value="Continuar">
+            <input type="submit" onclick='logar()' value="Continuar">
 
         </form>
         <div id="cadastro">

@@ -1,26 +1,42 @@
 
 
     function logar(){
-        var email = document.getElementById("email").value;
-        var senha = document.getElementById("password").value;
+        let email = document.querySelector('#email')
+        let labelEmail = document.querySelector('#labelEmail')
+        let password = document.querySelector('#password')
+        let labelPassword = document.querySelector('#labelPassword')
+        let msgErro = document.querySelector('#msgErro')
 
-        if(email == "teste@outlook.com" && senha == "teste"){
-            alert("Sucesso");
-        }else{
-            alert("Usuário ou senha incorretos");
+        /*let lista = []*/
+        let validUsuario = {
+            email: '',
+            password: ''            
         }
-    }
 
-    //Botão ver senha
-    let btn = document.querySelector('.fa-eye')
-    btn = addEventListener('click', ()=>{
-        let inputPassword = document.querySelector('#senha')
+        let lista = JSON.parse(localStorage.getItem('listUsuario'))
+
+        lista.forEach((item) => {
+            if(email.value == item.emailUser && password.value == item.senhaUser){
+                validUsuario = {
+                    email: item.emailUser,
+                    password: item.senhaUser                
+                }
+            }
+        })
+        listausuario = JSON.stringify(validUsuario)
+
+        if(email.value === validUsuario.email && password.value === validUsuario.password){
+            alert('funcionou')
+
+        } else
+        {
+            labelEmail.setAttribute('style', 'color: red')
+            email.setAttribute('style', 'border-color: red')
+            labelPassword.setAttribute('style', 'color: red')
+            password.setAttribute('style', 'border-color: red')
+            msgErro.setAttribute('style', 'display: block')
+            msgErro.innerHTML = 'Usuário ou senha incorretos'                          
+            
+        }
     
-        if(inputPassword.getAttribute('type') == 'password'){
-            inputPassword.setAttribute('type', 'text')
-        } else{
-            inputPassword.setAttribute('type', 'password')
-        }
-    })
-
-
+    }
