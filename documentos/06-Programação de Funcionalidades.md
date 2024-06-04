@@ -25,7 +25,7 @@ login.css\
 login.js
 
 #### Estrutura de Dados
-![](/documentos/img/estruturaDadosTelaLogin.png.png)
+![Imagem estrutura de dados](/documentos/img/estruturaDadosTelaLogin.png)
 
 #### Instruções de acesso
 
