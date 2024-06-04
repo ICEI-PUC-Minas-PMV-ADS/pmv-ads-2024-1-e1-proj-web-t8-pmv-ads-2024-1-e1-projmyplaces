@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Criar uma conta no MyPlaces</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>Criar uma conta no MyPlaces</title>    
     <link rel="stylesheet" href="/codigo-fonte/criarConta/criarconta.css">
     <script defer src="/codigo-fonte/criarConta/criarconta.js"></script>
     
@@ -23,12 +22,10 @@
             <label id="etiquetaUsuario" for="usuario">Usuário</label>
             <input type="text" name="usuario" id="usuario" placeholder="" autocomplete="off" required> 
 
-            <label id="etiquetaSenha" for="password">Senha</label>
-            <i id="mostrarSenha" class="fa fa-eye" aria-hidden="true"></i>                            
+            <label id="etiquetaSenha" for="password">Senha</label>            
             <input type="password" name="password" id="password" placeholder=""  autocomplete="off" required>  
 
-            <label id="etiquetaConfirmaSenha" for="confirmaSenha">Confimar Senha</label>   
-            <i id="mostrarConfirmaSenha" class="fa fa-eye" aria-hidden="true"></i>                                     
+            <label id="etiquetaConfirmaSenha" for="confirmaSenha">Confimar Senha</label>               
             <input type="password" name="confirmarSenha" id="confirmaSenha" placeholder="" autocomplete="off" required>    
 
             <input type="submit" onclick="criar()" value="Criar">

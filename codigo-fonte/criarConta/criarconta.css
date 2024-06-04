@@ -68,11 +68,6 @@ input[type="submit"]:hover{
     transition: 1ms;
 }
 
-.fa{
-    position: absolute;
-    right: 40%;
-    cursor: pointer;
-}
 
 #msgErro{
     text-align: center;

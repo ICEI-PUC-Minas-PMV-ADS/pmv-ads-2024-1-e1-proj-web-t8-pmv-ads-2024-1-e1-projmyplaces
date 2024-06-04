@@ -1,8 +1,4 @@
 //Variáveis
-let btnMostrar = document.querySelector('#mostrarSenha')
-let btnConfirma = document.querySelector('#mostrarConfirmaSenha')
-
-
 let etiquetaEmail = document.querySelector('#etiquetaEmail');
 let email = document.querySelector('#email');
 let validarEmail = false
@@ -23,16 +19,6 @@ let msgErro = document.querySelector('#msgErro')
 let msgSucesso = document.querySelector('#msgSucesso')
 
 
-//Botão mostra e esconde senha
-btnMostrar = addEventListener('click', () => {
-    let inputMostrar = document.querySelector('#senha')
-
-    if(inputMostrar.getAttribute('type') == 'password'){
-        inputMostrar.setAttribute('type', 'text')
-    } else{
-        inputMostrar.setAttribute('type', 'password')
-    }
-})
 
 btnConfirma = addEventListener('click', () => {
     let inputConfirmaSenha = document.querySelector('#confirmaSenha')
