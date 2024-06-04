@@ -36,6 +36,34 @@ Ao acessar a página principal do MyPlaces clique em Login no canto superior da 
 
 Lucineia
 
+### Tela de Criar Conta (RF-05)
+
+A tela para criar conta pode ser localizada na parte inferior da tela de login. Foi estruturada utilizando as linguagens html, css e JavaScript.
+
+Imagem da tela Criar Conta:
+
+![Tela Criar Conta](/documentos/img/telaCriarConta.png)
+
+#### Requisitos atendidos
+
+RF-05	A aplicação deve permitir ao usuário criar uma conta.
+
+#### Artefatos da funcionalidade
+
+login.html\
+login.css\
+login.js
+
+#### Estrutura de Dados
+![Imagem estrutura de dados](/documentos/img/estruturaDadosTelaCriarConta.png)
+
+#### Instruções de acesso
+
+Na página de login na parte inferior da tela há um link que leva o usuário para a tela de criar conta.
+
+#### Responsável
+
+Lucineia
 
 ### Tela de Mapa (RF-01, RF-12)
 
