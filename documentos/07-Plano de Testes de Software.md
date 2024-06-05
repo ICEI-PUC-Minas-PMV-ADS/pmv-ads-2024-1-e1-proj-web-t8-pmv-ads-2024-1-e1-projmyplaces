@@ -4,7 +4,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
 
 | Caso de Teste | Requisitos associados | Objetivo do teste|Passos necessários|Critérios de sucesso|Responsável
 |:---|:----|:---|:---|:---|:---
-| Requisitos Associados | RF-X |
+| CT-01: Verificar link criar conta  | RF-X |
 
  
 
