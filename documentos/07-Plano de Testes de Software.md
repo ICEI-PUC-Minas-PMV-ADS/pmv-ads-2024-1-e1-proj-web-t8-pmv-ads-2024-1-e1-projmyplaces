@@ -2,8 +2,8 @@
 
 Os testes funcionais a serem realizados na aplicação são descritos a seguir. 
 
-| Caso de Teste | Requisitos associados |
-|:---|:----|
+| Caso de Teste | Requisitos associados | Objetivo do teste|Passos necessários|
+|:---|:----|:---|:---
 | Requisitos Associados | RF-X |
 | Objetivo do Teste | Descrição do objetivo do teste |
 | Passos | Indicar passos para a execução do teste |
