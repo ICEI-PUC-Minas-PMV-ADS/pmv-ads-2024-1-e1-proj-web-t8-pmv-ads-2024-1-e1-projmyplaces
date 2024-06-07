@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: auto;
+  padding: 0;
+  max-width: 70vw;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 0px;
+  background-color: #fff;
+}
+
+.header .logo {
+  width: 200px;
+}
+
+.header .busca {
+  display: flex;
+  align-items: center;
+  justify-self: end;
+}
+
+.header .busca input {
+  padding: 10px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+}
+
+.header .busca .botao-busca {
+  padding: 10px 20px;
+  background-color: blueviolet;
+  color: #fff;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.breadcrumb {
+  padding: 10px 0px;
+  font-size: 0.9rem;
+}
+
+.breadcrumb a {
+  color: #333;
+  text-decoration: none;
+  margin-right: 5px;
+}
+
+.resultados {
+  margin: 20px 0;
+}
+
+.resultado-item {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 10px 0;
+}
+
+.resultado-item h3 {
+  margin: 0 0 10px 0;
+}
+
+.resultado-item p {
+  margin: 5px 0;
+}
