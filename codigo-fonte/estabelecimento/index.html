@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Restaurante Prato Cheio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <header class="header">
+    <a href=""><img src="Img/logo_MyPlaces.svg" alt="logo_MyPlaces" class="logo"></a>
+    <div class="busca">
+      <input type="text" placeholder="Buscar">
+      <button class="botao-busca">Buscar</button>
+    </div>
+  </header>
+
+  <nav class="breadcrumb">
+    <a href="#">Home</a> &gt;
+    <a href="#">Destaques</a> &gt;
+    <a href="#">Restaurantes</a> &gt;
+    <a href="#">Restaurante Prato Cheio</a>
+  </nav>
+
+  <main>
+    <section class="info">
+      <div class="info-principal">
+        <h2>Restaurante Prato Cheio</h2>
+        <div class="media">
+          <span id="media-aval">0</span> ★
+        </div>
+        <p class="endereco">
+          <img src="/img/local.svg" alt="local">
+          Rodovia Flor do Campo, KM 150, Próximo ao Posto do Girassol - Cidade dos Ventos - Minas Gerais - CEP: 37500-000
+        </p>
+        <div class="servicos">
+          <h3>Contém</h3>
+          <p><img src="/img/wc.svg" alt="banheiros"> Acesso aos banheiros</p>
+          <p><img src="/img/wifi.svg" alt="wifi"> Internet Wi-Fi</p>
+          <h3>Outros serviços</h3>
+          <p>Cardápio Self-Service, venda de bebidas, opções veganas</p>
+        </div>
+      </div>
+      <img src="img/restaurante.jpg" alt="Restaurante" class="imagem-restaurante">
+    </section>
+
+    <section class="avaliacao-section">
+      <h3>Faça a sua avaliação</h3>
+      <div class="avaliacao-form">
+        <div class="estrelas">
+          <span data-value="1">★</span>
+          <span data-value="2">★</span>
+          <span data-value="3">★</span>
+          <span data-value="4">★</span>
+          <span data-value="5">★</span>
+        </div>
+        <textarea id="comentario" placeholder="Escreva sua avaliação..."></textarea>
+        <div class="botoes">
+          <button class="botao-enviar">Enviar</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="comentarios" id="comentarios">
+      <h3>Avaliações (30)</h3>
+      <!-- Comentários serão inseridos aqui -->
+    </section>
+  </main>
+
+  <script src="estabelecimento.js"></script>
+</body>
+
+</html>
