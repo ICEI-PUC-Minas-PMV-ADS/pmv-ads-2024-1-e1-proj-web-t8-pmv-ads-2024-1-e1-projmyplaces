@@ -3,7 +3,7 @@
 Pré-requisitos: [Especificação do Projeto](/documentos/02-Especificação%20do%20Projeto.md) 
 
 
-### Tela de Login (RF-05, RF-10)
+### Tela de Login (RF-05, RF-10, RF-02)
 
 A tela de login pode ser localizada no canto superior direito da página. Foi estruturada utilizando as linguagens html, css e JavaScript.
 
@@ -15,7 +15,8 @@ Imagem da tela de login:
 #### Requisitos atendidos
 
 RF-05	A aplicação deve permitir ao usuário criar uma conta.\
-RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.
+RF-10	A aplicação deve permitir criar senha quando esquecida clicando em “esqueci a senha”.\
+RF-02 A aplicação deve permitir o usuário efetuar login.
 
 
 #### Artefatos da funcionalidade
