@@ -45,6 +45,7 @@ Usuário clica em 'Criar conta'.
 
 
 Página criar conta.
+
 ![Tela 4](/documentos/img/testeCT03-3.png)
 
 
