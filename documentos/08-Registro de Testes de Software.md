@@ -6,3 +6,7 @@ CT-01: Verificar links tela principal.
 
 Responsável: Lucineia
 
+CT-02: Verificar link Login.
+
+Responsável: Lucineia
+
