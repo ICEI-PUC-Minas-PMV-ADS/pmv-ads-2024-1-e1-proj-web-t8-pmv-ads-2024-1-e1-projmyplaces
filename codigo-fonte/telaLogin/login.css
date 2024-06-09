@@ -93,4 +93,12 @@ input[type="submit"]:hover{
     border-radius: 10px;
     display: none;
 }
+#msgCampoVazio{
+    text-align: center;
+    color: rgb(16, 15, 15);
+    background-color: #e8100d;
+    padding: 10px;
+    border-radius: 10px;
+    display: none;
+}
 
