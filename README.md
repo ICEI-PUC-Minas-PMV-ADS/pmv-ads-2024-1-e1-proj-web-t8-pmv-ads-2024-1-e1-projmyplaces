@@ -12,7 +12,6 @@ A aplicação permitirá que o usuário pesquise por lugares relacionados a laze
 ## Integrantes
 
 * Lucineia Martins Caldeira dos Santos
-* Lucas Vinícius Almeida Campos
 * Bárbara Souto Prado
 
 ## Orientador
