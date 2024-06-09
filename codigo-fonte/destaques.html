@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyPlaces </title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            background-color: #f9f9f9;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        header {
+            display: flex;
+            justify-content: flex-start;
+            align-items: center;
+            margin-right: 20px;
+        }
+        header h1 {
+            font-size: 24px;
+            font-weight: bold;
+            color: #8c8c8c;
+        }
+        .search-bar {
+            width: 400px;
+            padding: 8px;
+            border-radius: 20px;
+            border: 1px solid #ccc;
+            margin-left: 500px;
+        }
+        .tabs {
+            display: flex;
+            gap: 10px;
+            margin-top: 20px;
+        }
+        .tabs button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 20px;
+            cursor: pointer;
+            background-color: #f0f0f0;
+            color: #333;
+            font-weight: bold;
+        }
+        .tabs button:hover {
+            background-color: #ddd;
+        }
+        .tabs button.active {
+            background-color: #ccc;
+        }
+        .listing {
+            margin-top: 20px;
+        }
+        .listing-item {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+            padding: 10px;
+            border: 1px solid #eee;
+            border-radius: 10px;
+            background-color: #fff;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .listing-item img {
+            width: 80px;
+            height: 80px;
+            border-radius: 10px;
+            margin-right: 20px;
+        }
+        .listing-item .details {
+            flex-grow: 1;
+        }
+        .listing-item .details h3 {
+            margin: 0;
+            font-size: 18px;
+            color: #333;
+        }
+        .listing-item .details .rating {
+            margin: 5px 0;
+            color: #f39c12;
+        }
+        .listing-item .details .info {
+            color: #777;
+        }
+        .hidden {
+            display: none;
+        }
+        .icon {
+            display: inline-block;
+            margin-left: 10px;
+            font-size: 18px;
+        }
+        .wifi:before {
+            content: "\1F4F6";
+        }
+        .restroom:before {
+            content: "\1F6BB";
+        }
+        .fuel:before {
+            content: "\26FD";
+        }
+        .atm:before {
+            content: "\1F3E6";
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>MyPlaces</h1>
+            <input type="text" class="search-bar" placeholder="Buscar" id="search-bar">
+        </header>
+        <nav class="tabs">
+            <button class="tab-button active" data-tab="restaurante">Restaurante</button>
+            <button class="tab-button" data-tab="hospedagem">Hospedagem</button>
+            <button class="tab-button" data-tab="servicos">Serviços</button>
+        </nav>
+        <section class="listing" id="listing">
+            <div class="listing-item" data-category="restaurante">
+                <div class="details">
+                    <h3><img src="images/restaurante.webp" class="small-image" alt="Restaurante Prato Cheio"> Restaurante Prato Cheio <span class="icon restroom"></span> <span class="icon wifi"></span></h3>
+                    <div class="rating">4.9 ★★★★★</div>
+                    <div class="info">
+                        <p>Rodovia Flor do Campo, KM 150, Próximo ao Posto do Girassol - Cidade dos Ventos - MG CEP: 37500-000</p>
+                        <p>(34) 0000-0000</p>
+                    </div>
+                </div>
+            </div>
+            </section>
+            <div class="listing-item" data-category="servicos">
+                <div class="details">
+                    <h3>
+                        <img src="images/posto.webp" alt="Posto Petrobras">
+                        Postos Petrobras <span class="icon fuel"></span>
+                    </h3>
+                    <div class="rating">4.8 ★★★★★</div>
+                    <div class="info">
+                        <p>Endereço 1</p>
+                        <p>(34) 0000-0000</p>
+                    </div>
+                </div>
+            </div>
+            <div class="listing-item" data-category="servicos">
+                <div class="details">
+                    <h3>
+                        <img src="images/caixa.jpg" alt="Caixa 24hrs">
+                        Caixa 24h <span class="icon atm"></span>
+                    </h3>
+                    <div class="rating">4.9 ★★★★★</div>
+                    <div class="info">
+                        <p>Endereço 2</p>
+                        <p>(34) 0000-0000</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script>
+        // Função de Troca de Abas
+        const tabs = document.querySelectorAll('.tab-button');
+        const listings = document.querySelectorAll('.listing-item');
+
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                // Remove a classe ativa de todas as abas
+                tabs.forEach(t => t.classList.remove('active'));
+                // Adiciona a classe ativa à aba clicada
+                tab.classList.add('active');
+
+                // Obtém a categoria da aba clicada
+                const category = tab.getAttribute('data-tab');
+
+                // Mostra/Esconde itens de listagem com base na categoria selecionada
+                listings.forEach(listing => {
+                    if (listing.getAttribute('data-category') === category) {
+                        listing.classList.remove('hidden');
+                    } else {
+                        listing.classList.add('hidden');
+                    }
+                });
+            });
+        });
+
+        // Função de Busca
+        const searchBar = document.getElementById('search-bar');
+        searchBar.addEventListener('input', (e) => {
+            const searchText = e.target.value.toLowerCase();
+            listings.forEach(listing => {
+                const title = listing.querySelector('.details h3').textContent.toLowerCase();
+                if (title.includes(searchText)) {
+                    listing.classList.remove('hidden');
+                } else {
+                    listing.classList.add('hidden');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
