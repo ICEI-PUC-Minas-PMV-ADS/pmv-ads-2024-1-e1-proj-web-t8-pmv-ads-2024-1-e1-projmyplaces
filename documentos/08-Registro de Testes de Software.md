@@ -12,14 +12,39 @@ Responsável: Lucineia
 
 Usuário digita o endereço do MyPlaces na barra de endereços do navegador.
 
-![Tela de login](/documentos/img/testeCT02-1.png)
+![Tela 1](/documentos/img/testeCT02-1.png)
 
 
 Usuário clica em 'Login'.
 
-![Tela de login](/documentos/img/testeCT02-2.png)
+![Tela 2](/documentos/img/testeCT02-2.png)
 
 
-Página de Login carregada.
+Página de Login.
 
-![Tela de login](/documentos/img/testeCT02-3.png)
+![Tela 3](/documentos/img/testeCT02-3.png)
+
+
+CT-03: Verificar link Criar conta.
+
+Responsável: Lucineia
+
+Usuário digita o endereço do MyPlaces na barra de endereços do navegador.
+
+![Tela 1](/documentos/img/testeCT03-1.png)
+
+
+Usuário clica em 'Login'.
+
+![Tela 2](/documentos/img/testeCT03-2.png)
+
+
+Usuário clica em 'Criar conta'.
+
+![Tela 3](/documentos/img/testeCT03-3.png)
+
+
+Página criar conta.
+![Tela 4](/documentos/img/testeCT03-3.png)
+
+
