@@ -2,11 +2,11 @@
 
 Os testes realizados na aplicação estão descritos abaixo.
 
-CT-01: Verificar links tela principal.
+**CT-01: Verificar links tela principal**
 
 Responsável: Lucineia
 
-CT-02: Verificar link Login.
+**CT-02: Verificar link Login**
 
 Responsável: Lucineia
 
@@ -25,7 +25,7 @@ Página de Login.
 ![Tela 3](/documentos/img/testeCT02-3.png)
 
 
-CT-03: Verificar link Criar conta.
+**CT-03: Verificar link Criar conta**
 
 Responsável: Lucineia
 
