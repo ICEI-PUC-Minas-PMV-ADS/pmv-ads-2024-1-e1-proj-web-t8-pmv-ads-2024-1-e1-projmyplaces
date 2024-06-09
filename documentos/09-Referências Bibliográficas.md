@@ -1,7 +1,7 @@
 # Referências Bibliográficas
 
 
-Futura Inteligência. **1 em cada 4 brasileiros pretende viajar a turismo nos próximos seis meses**. Disponível em : https://exame.com/casual/1-em-cada-4-brasileiros-pretende-viajar-a-turismo-nos-proximos-seis-meses/. Acesso em: 08 mar. 2024. 
+Futura Inteligência. **1 em cada 4 brasileiros pretende viajar a turismo nos próximos seis meses**. Disponível em : < https://exame.com/casual/1-em-cada-4-brasileiros-pretende-viajar-a-turismo-nos-proximos-seis-meses/ >. Acesso em: 08 mar. 2024. 
 
 
 
@@ -14,4 +14,4 @@ BRASIL. Ministério do Turismo. **Brasil recebe mais de 3,2 milhões de turistas
 
 
  
-SCHWABER, Ken; SUTHERLAND Jeff. **Guia do Scrum**.  Scrum.Org and ScrumInc, jul. 2013. Atualizado em 2014. Disponível em: >https://scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf. Acesso em: 17 abr. 2024.
+SCHWABER, Ken; SUTHERLAND Jeff. **Guia do Scrum**.  Scrum.Org and ScrumInc, jul. 2013. Atualizado em 2014. Disponível em: <https://scrumguides.org/docs/scrumguide/v1/Scrum-Guide-Portuguese-BR.pdf>. Acesso em: 17 abr. 2024.
