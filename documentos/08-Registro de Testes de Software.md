@@ -6,6 +6,8 @@ Os testes realizados na aplicação estão descritos abaixo.
 
 Responsável: Lucineia
 
+![Tela 1](/documentos/img/testeCT01.mp4)
+
 **CT-02: Verificar link Login**
 
 Responsável: Lucineia
