@@ -24,31 +24,16 @@ btnConfirma = addEventListener('click', () => {
     let inputConfirmaSenha = document.querySelector('#confirmaSenha')
 
     if(inputConfirmaSenha.getAttribute('type') == 'password'){
-        inputConfirmaSenha.setAttribute('type', 'text')
+        inputConfirmaSenha.setAttribute('type', '')
     } else{
         inputConfirmaSenha.setAttribute('type', 'password')
     }
 })    
 
-//Validação dos campos
-/*nome.addEventListener('keyup', () => {
-    if(nome.value.length <= 3){
-        etiquetaNome.setAttribute('style', 'color: red')
-        etiquetaNome.innerHTML = 'Insira o nome com no mínimo 3 caracteres'
-        nome.setAttribute('style', 'border-color: red')
-        validarNome = false
-    }else {
-        etiquetaNome.setAttribute('style', 'color: green')
-        etiquetaNome.innerHTML = 'Nome'
-        nome.setAttribute('style', 'border-color: black')
-        validarNome = true
-    }
-})*/
-
 usuario.addEventListener('keyup', () => {
-    if(usuario.value.length <= 5){
+    if(usuario.value.length <= 4){
         etiquetaUsuario.setAttribute('style', 'color: red')
-        etiquetaUsuario.innerHTML = 'Insira o usuário com no mínimo 5 caracteres'
+        etiquetaUsuario.innerHTML = 'Insira o usuário com no mínimo 4 caracteres'
         usuario.setAttribute('style', 'border-color: red')
         validarUsuario = false
     }else {
@@ -60,9 +45,9 @@ usuario.addEventListener('keyup', () => {
 })
 
 password.addEventListener('keyup', () => {
-    if(password.value.length <= 6){
+    if(password.value.length <= 4){
         etiquetaSenha.setAttribute('style', 'color: red')
-        etiquetaSenha.innerHTML = 'Insira uma senha com no mínimo 6 caracteres'
+        etiquetaSenha.innerHTML = 'Insira uma senha com no mínimo 4 caracteres'
         password.setAttribute('style', 'border-color: red')
         validarSenha = false
     }else {
