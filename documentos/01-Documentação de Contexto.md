@@ -1,7 +1,7 @@
 # Introdução
 
 Desde o início das civilizações, já existia a necessidade de locomoção dos seres humanos.
-Um exemplo disso, são os povos nômades, que surgiram na Pré-História.A locomoção era uma forma de sobrevivência dos povos.
+Um exemplo disso, são os povos nômades, que surgiram na Pré-História. A locomoção era uma forma de sobrevivência dos povos.
 Com os avanços nos meios de transporte e tecnológicos essa locomoção se dá de forma mais rápida e dinâmica, consequentemente, cada vez mais, surgem necessidades de meios que auxiliem na localização de lugares, pois, conforme as pessoas transitam de um lugar para outro, elas precisam saber onde encontrar recursos para sanar suas necessidades. 
 "Um em cada quatro brasileiros pretende viajar a turismo nos próximos seis meses"( Futura Inteligência, 2023 ).
 Levando em consideração este dado, o processo de conhecer novas localidades tende a seguir nos próximos anos, além daquelas pessoas que precisam viajar a trabalho. Podemos citar também, aquelas pessoas que estão mudando para alguma região desconhecida.
@@ -30,7 +30,7 @@ comunidade virtual que compartilhe experiências e conhecimentos sobre os destin
 
 ## Justificativa
 
-"Mais de 3,2 milhões de turistas internacionais visitaram o Brasil no primeiro semestre deste ano. O número representa 92% do total de turistas internacionais que o país recebeu durante todo o ano de 2022, quando 3,6 milhões de estrangeiros entraram no Brasil"( Ministério do Turismo, 2023).
+"Mais de 3,2 milhões de turistas internacionais visitaram o Brasil no primeiro semestre deste ano. O número representa 92% do total de turistas internacionais que o país recebeu durante todo o ano de 2022, quando 3,6 milhões de estrangeiros entraram no Brasil"(Ministério do Turismo, 2023).
 
 Outra pesquisa realizada pela Agência Brasil cita a "Falta de informação, dificuldades com o idioma e acesso à documentação como os principais obstáculos para os estrangeiros no país "(Cazarré, 2015). Além dos problemas, sociais, econômicos e políticos, esses imigrantes ainda precisam lidar com as dificuldades de locomoção em um país estrangeiro. 
 Pensando nessas dificuldades, a aplicação desse projeto será desenvolvida para ajudar essas pessoas encontrarem pontos de comodidades e necessidades em um lugar desconhecido. 
