@@ -81,7 +81,7 @@ RF-10	A aplicação deve conter um campo de busca por avaliações.
 #### Artefatos da funcionalidade
 
 login.html\
-login.css\
+login.css
 
 #### Instruções de acesso
 
