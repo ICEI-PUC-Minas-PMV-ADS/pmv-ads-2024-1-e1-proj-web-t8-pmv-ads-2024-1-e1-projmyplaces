@@ -6,7 +6,11 @@ Os testes realizados na aplicação estão descritos abaixo.
 
 Responsável: Lucineia
 
-![](/documentos/img/testeCT01.mp4)
+
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/assets/165092193/be1016cf-cf5b-4ece-aff0-7799c45e2d02
+
+
 
 **CT-02: Verificar link Login**
 
