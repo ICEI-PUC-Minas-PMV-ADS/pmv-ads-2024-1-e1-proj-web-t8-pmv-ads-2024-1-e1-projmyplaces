@@ -34,7 +34,7 @@ A aplicação permitirá que o usuário pesquise por lugares relacionados a laze
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+Para acessar a aplicação clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/codigo-fonte/paginaHome/">aqui</a>.
 
 # Código-Fonte
 
