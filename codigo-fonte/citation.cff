@@ -1,0 +1,16 @@
+message: Please cite this software using these metadata.
+title: MyPlaces
+authors:
+  - family-names: Martins Caldeira dos Santos
+    given-names: Lucineia  
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Soares Vieira de Vasconcelos
+    given-names: Amália  
+keywords:
+ Lugares
+ Turistas
+ viajantes
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/tree/main
+version: 1.0.0
+date-released: 2024-06-21
