@@ -12,7 +12,9 @@
 
 3. Apresentação de funcionalidades
 
-[Vídeo Apresentação funcionalidades ](/documentos/img/apresentacao.mp4)
+
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/assets/165092193/c2952ad5-b67a-4f24-a5d8-91bfe8d1d18b
+
 
 
 
