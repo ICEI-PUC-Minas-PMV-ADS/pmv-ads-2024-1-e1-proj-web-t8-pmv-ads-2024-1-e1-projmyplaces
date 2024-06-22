@@ -9,10 +9,10 @@ Para o desenvolvimento deste projeto foi escolhido o método ágil SCRUM que de 
 ### Divisão de Papéis
 
 Nossa equipe é formada por:
-- Scrum Master: Bárbara.
+- Scrum Master: Lucineia Martins.
 - Product Owner: Lucineia Martins.
-- Equipe de Desenvolvimento: Lucineia Martins e Bárbara Souto.
-- Equipe de Design: Bárbara Souto.
+- Equipe de Desenvolvimento: Lucineia Martins.
+- Equipe de Design: Lucineia Martins.
 
 ### Processo
 
