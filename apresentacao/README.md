@@ -2,9 +2,7 @@
 
 1. Apresentação dos slides
 
-[Slides de Apresentação etapa1 ](ApresentacaoEtapa1.pdf)\
-[Slides de Apresentação etapa3 ](ApresentacaoEtapa3.pdf)\
-[Slides de Apresentação etapa4 ](ApresentacaoEtapa4.pdf)
+[Slides de Apresentação etapa4 ](ApresentacaoEtapa5.pdf)
 
 ## Vídeo de apresentação
 
