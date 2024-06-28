@@ -26,6 +26,7 @@ login.css\
 login.js
 
 #### Estrutura de Dados
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t8-pmv-ads-2024-1-e1-projmyplaces/assets/165092193/b2da51f5-0261-4b22-93f6-dc393b5c1d2d)
 
 
 #### Instruções de acesso
